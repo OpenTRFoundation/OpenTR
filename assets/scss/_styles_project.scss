@@ -1,0 +1,64 @@
+// See https://github.com/google/docsy/blob/main/assets/scss/_variables.scss
+// See https://www.docsy.dev/docs/adding-content/lookandfeel/
+// See https://github.com/twbs/bootstrap/blob/v4-dev/scss/_variables.scss
+
+.text-left {
+  text-align: left !important;
+  ul: {
+    text-align: left !important;
+  }
+}
+
+// logo font to use in the navbar
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+
+
+.td-navbar {
+  background: white;
+  border-bottom: 1px solid $gray-400;
+  box-shadow: 2px 2px 2px $gray-400;
+
+  a {
+    color: $dark !important;
+  }
+
+  .td-search__icon, .td-search__input::placeholder {
+    color: $dark !important;
+  }
+
+  .td-search__input {
+    border: 1px solid #ccc;
+  }
+
+  .navbar-brand svg {
+    height: 50px;
+  }
+
+  .navbar-brand {
+    padding: 0;
+  }
+
+  .navbar-brand__name{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 1.5em;
+  }
+}
+
+footer {
+  min-height: auto;
+
+  svg {
+    height: 50px;
+  }
+
+  .brand__name{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 1.5em;
+    margin-left: 10px;
+    @extend .text-secondary;
+  }
+}
+
+.td-sidebar-toc{
+  padding-top: 1.75rem;
+}
