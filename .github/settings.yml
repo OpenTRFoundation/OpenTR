@@ -1,0 +1,5 @@
+_extends: .github
+
+repository:
+  name: OpenTR
+  description: OpenTR website
