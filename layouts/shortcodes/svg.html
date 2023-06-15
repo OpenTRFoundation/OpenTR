@@ -1,0 +1,3 @@
+{{ with resources.Get (index .Params 0) -}}
+    {{ ( . | minify).Content | safeHTML -}}
+{{ end -}}

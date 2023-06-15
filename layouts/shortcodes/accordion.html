@@ -1,0 +1,48 @@
+{{/* See https://github.com/google/docsy/pull/1391/files */ -}}
+
+{{/* Check parameter type */ -}}
+{{ with .Get "alwaysOpen" -}}
+{{ warnf "Always open given" }}
+{{ $type := printf "%T" . -}}
+{{ if ne $type "bool" -}}
+{{ errorf `shortcode 'accordion': boolean value expected for parameter 'alwaysOpen', but got %s` $type -}}
+{{ end -}}
+{{ end -}}
+
+{{ $alwaysOpen := default false ($.Get "alwaysOpen") -}}
+
+{{- /* Scratchpad gets populated through call to .Inner */ -}}
+{{- .Inner -}}
+
+{{/* Accordion markup */ -}}
+<div id="accordion-{{- $.Ordinal -}}" class="accordion mb-4">
+    {{ range $index, $element := $.Scratch.Get "items" -}}
+    {{ $itemid := printf "-%02v-%v" $.Ordinal $index | anchorize -}}
+
+    {{ $open := false -}}
+    {{ with $element.open -}}
+    {{ $open = . -}}
+    {{ end -}}
+
+    <div class="card">
+        <div class="card-header" id="heading{{- $itemid -}}">
+            <h2 class="mb-0">
+                <button class="btn btn-link btn-block text-left {{- cond ( eq $index "00" ) "" " collapsed" -}}"
+                    type="button" data-toggle="collapse"
+                    data-target="#collapse{{- $itemid -}}">
+                {{ index . "header" | markdownify }}
+                </button>
+            </h2>
+        </div>
+
+        <div id="collapse{{- $itemid -}}"
+             class="collapse {{- cond ( eq $index "00" ) " show" ""  -}}"
+             data-parent="#accordion-{{- $.Ordinal -}}">
+        <div class="card-body">
+            {{ index . "content" }}
+        </div>
+
+    </div>
+</div>
+
+{{- end }}

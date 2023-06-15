@@ -1,0 +1,120 @@
+{{ $links := .Site.Params.links }}
+<footer class="bg-dark pt-5 row d-print-none">
+  <div class="container">
+    <p class="text-center text-sm text-secondary">© {{ now.Year }} The OpenTR Authors | Documentation Distributed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
+  </div>
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        {{ with $links }}
+        {{ with index . "user"}}
+        {{ template "footer-links-block"  . }}
+        {{ end }}
+        {{ end }}
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        {{ with $links }}
+        {{ with index . "developer"}}
+        {{ template "footer-links-block"  . }}
+        {{ end }}
+        {{ end }}
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2" translate="no">
+        {{ with resources.Get "icons/logo-monochrome.svg" -}}
+          {{ ( . | minify).Content | safeHTML -}}
+        {{ end -}}
+        <span class="brand__name text-nowrap" translate="no">
+          {{- .Site.Title -}}
+        </span>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-12 text-center py-2 order-sm-2">
+        <div class="container-sm">
+          <div class="row">
+            <div class="col-md-4 mb-5">
+              <ul class="nav flex-column">
+                <li class="nav-item">
+                  <h3 class="nav-link text-secondary font-weight-lighter"><u>Oluşum</u></h3>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/">Anasayfa</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/about/">Hakkımızda</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/docs/about/strategy/">Strateji</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/docs/about/methodology/">Metodoloji</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/about/#sıkça-sorulan-sorular">Sıkça Sorulan Sorular</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/blog/">Blog</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-4 mb-5">
+              <ul class="nav flex-column">
+                <li class="nav-item">
+                  <h3 class="nav-link text-secondary font-weight-lighter"><u>Belgeler</u></h3>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/docs/">Tüm Belgeler</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/docs/terms/">Dönemler</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/docs/getting-started/organizations/">Kuruluş Başlangıç Rehberi</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/docs/getting-started/individuals/">Birey Başlangıç Rehberi</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-4 mb-5">
+              <ul class="nav flex-column">
+                <li class="nav-item">
+                  <h3 class="nav-link text-secondary font-weight-lighter"><u>İşbirliği</u></h3>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/contact/">İletişim</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/docs/about/contribute-to-opentr/">OpenTR'ye katkı</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="/contact/#topluluk">Topluluk</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-secondary" href="https://github.com/OpenTRFoundation/opentr">GitHub</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        {{ with .Site.Params.copyright }}<small class="text-white">&copy; {{ now.Year}} {{ .}} {{ T "footer_all_rights_reserved" }}</small>{{ end }}
+        {{ with .Site.Params.privacy_policy }}<small class="ml-1"><a href="{{ . }}" target="_blank" rel="noopener">{{ T "footer_privacy_policy" }}</a></small>{{ end }}
+	{{ if not .Site.Params.ui.footer_about_disable }}
+		{{ with .Site.GetPage "about" }}<p class="mt-2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>{{ end }}
+	{{ end }}
+      </div>
+    </div>
+  </div>
+</footer>
+{{ define "footer-links-block" }}
+<ul class="list-inline mb-0">
+  {{ range . }}
+  <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="{{ .name }}" aria-label="{{ .name }}">
+    <a class="text-white" target="_blank" rel="noopener" href="{{ .url }}" aria-label="{{ .name }}">
+      <i class="{{ .icon }}"></i>
+    </a>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}
