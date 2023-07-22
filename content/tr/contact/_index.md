@@ -14,7 +14,10 @@ menu:
 ## Haberdar olun
 
 OpenTR'nin gelişmelerinden haberdar olmak için **ana duyuru kanalımız** olan mail listemize kaydolabilirsiniz.
-Ayrıca sosyal medya hesaplarımızı takip edebilirsiniz.
+
+Ayrıca düzenli **çalışma grubu toplantılarımıza** katılabilirsiniz. Toplantılarımız herkese açık bir şekilde yapılmaktadır. 
+
+Sosyal medya hesaplarımızı da takip edebilirsiniz.
 
 * [<i class="fa fa-envelope"></i> Duyuru Mail Listesi](https://groups.google.com/a/opentr.foundation/g/duyuru): Kaydolarak OpenTR'nin yapacağı duyurulardan haberdar olabilirsiniz. 
 * [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/opentr_fdn)
@@ -27,6 +30,16 @@ Ayrıca sosyal medya hesaplarımızı takip edebilirsiniz.
 <div class="container text-left" style="margin-top: 2rem; font-size: larger;">
 
 {{% markdown %}}
+
+## Toplantılar
+
+Düzenli periyotlarla çalışma grubu toplantısı yapıyoruz. Toplantılarımız herkese açık bir şekilde yapılmaktadır.
+
+Bu toplantıda hem OpenTR’nin kendi katılımcılarıyla tanışabilir ve güncel bilgileri alabilir, hem de topluluğumuza kendinizi tanıtabilir ve kendi durumunuzu (başarılar, ihtiyaçlar, hikayeler) paylaşabilirsiniz.
+
+* [<i class="fa fa-calendar"></i> Online toplantılar](https://calendar.google.com/calendar/embed?src=c_48811b0cdd3ca355f20d666c7213677e48e58d6feb3f725d5a78b81e479ce56e%40group.calendar.google.com): Linkteki safyadan toplantılarımızın tarihlerini ve saatlerini görebilirsiniz. Sağ alttaki "+ Google Takvimime Ekle" butonuna tıklayarak toplantıları kendi takviminize ekleyebilirsiniz.
+* [<i class="fa fa-calendar"></i> Toplantı notları ve ajandası](https://docs.google.com/document/d/1xChq58YATbBOU-E9PIuS1gY_ILATAr6XLHQvdx6LMFo): Toplantı notlarımız ve ajandamızı Google Docs üzerinden tutuyoruz. Toplantı notlarımızı ve ajandamızı inceleyebilirsiniz.
+
 
 ## İletişim
 
