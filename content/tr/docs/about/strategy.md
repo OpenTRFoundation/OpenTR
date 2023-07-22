@@ -12,7 +12,7 @@ OpenTR, Türkiye'de açık kaynak yazılıma ve beraberindekilere hem yatırım 
 
 Bu oluşum için belirlenen strateji, vizyon ve misyon aşağıda açıklanmıştır.
 
-Özet olarak, dört odak alanı üzerinde metodolojik ve time-boxed dönemler şeklinde çalışmalar yapılacaktır.
+Özet olarak, odak alanlarımız üzerinde metodolojik ve time-boxed dönemler şeklinde çalışmalar yapılacaktır.
 
 OpenTR'nin metodolojisi [Metodoloji](../methodology/) belgesinde açıklanmıştır.
 
@@ -34,19 +34,16 @@ Ayrıca, ülkemizdeki açık kaynak katkı yapan sayısı henüz çok fazla olma
 
 OpenTR olarak Türkiye yazılım ekosistemini geliştirecek diğer oluşumlara, kapalı projelere veya kapalı topluluklara karşı olmamakla birlikte, bunları çalışma kapsamımıza almıyoruz.
 
-### Dört Odak Alanımız
+### Odak Alanlarımız
 
-##### Açık Kaynak
+#### Açık Kaynak
 Açık kaynak teknolojileri, Türkiye'de teknoloji geliştirme kültürünün yaygınlaşmasını sağlayacak bir araçtır. Açık kaynak teknolojilere katkı yaparak Türkiye'de mühendisliğin, inovasyonun ve yaratıcılığın ilerlemesini hedeflemekteyiz. OpenTR, Türk kuruluşları ve bireylerin açık kaynak projelerine katkıda bulunmalarını teşvik eder ve bu projelere katkı sağlamalarına yardımcı olacak kaynaklar sağlayacaktır.
 
-##### Açık Topluluk
+#### Açık Topluluk
 Açık topluluklar, katılımcıların birbirleriyle işbirliği yaparak birlikte çalıştıkları, birbirlerinden öğrendikleri ve birbirlerini destekledikleri yerlerdir. Açık kaynak teknolojilerindeki gelişmelerin ve yeniliklerin çoğu açık topluluklar tarafından gerçekleştirilir. OpenTR olarak açık toplulukların oluşma ve yürütme modelleri hakkında rehberlik kaynakları sunarak bu topluluklarda yer alan ve hatta liderlik yapan Türk kuruluş ve şahısların sayısını artırmayı hedeflemekteyiz.
 
-##### Açık Veri
-OpenTR hem Türkiye'deki açık kaynak ekosistemleri hakkında kendi araştırmaları, anket ve analizlerinin açık bir şekilde yayınlanmasını, hem de şirketlerin Türkiye'deki ekosisteme faydalı olabilecek verilerinin açık bir şekilde yayınlamasını hedeflemektedir.
-
 #### Açık İşbirliği
-Açık teknolojiler, açık topluluklar ve açık veri kavramları nasıl sorusunun cevabını verse de, şirketlerin ve bireylerin Türk teknoloji ekosistemine faydası için Türkiye özelinde işbirliğini artırmasını bu odak alanındaki çalışmalarımız ile hedeflemekeyiz. Stratejik olarak şirketlerin ve bireylerin hangi proje ve topluluklarda beraber çalışabileceğini belirlemek ve bu işbirliklerini desteklemek, OpenTR'ın bu odak alanındaki çalışmalarının temelini oluşturmaktadır.
+Açık teknoloji ve açık topluluk kavramları nasıl sorusunun cevabını verse de, şirketlerin ve bireylerin Türk teknoloji ekosistemine faydası için Türkiye özelinde işbirliğini artırmasını bu odak alanındaki çalışmalarımız ile hedeflemekeyiz. Stratejik olarak şirketlerin ve bireylerin hangi proje ve topluluklarda beraber çalışabileceğini belirlemek ve bu işbirliklerini desteklemek, OpenTR'nin bu odak alanındaki çalışmalarının temelini oluşturmaktadır.
 
 ### Çıktılar
 
@@ -107,12 +104,6 @@ mindmap
     ::icon(fa fa-users)
     Topluluk Liderliği
     ::icon(fa fa-users)
-  Açık Veri
-  ::icon(fa fa-database)
-      Açık Araştırma
-      ::icon(fa fa-search)
-      Veri Yayınlama
-      ::icon(fa fa-database)
   Açık İşbirliği
   ::icon(fa fa-handshake)
     Projeleri Belirleme

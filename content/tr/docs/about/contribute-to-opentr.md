@@ -8,7 +8,12 @@ description: >
 
 ## Ne Yapabilirim?
 
-Genel olarak, yapılacak görevleri OpenTR'nin GitHub projelerinde görebilirsiniz: https://github.com/orgs/OpenTRFoundation/projects. 
+Genel olarak, yapılacak görevleri OpenTR'nin GitHub projelerinde görebilirsiniz: https://github.com/orgs/OpenTRFoundation/projects.
+
+OpenTR ekibi çoğunlukla asenkron çalışmaktadır. Çalışmalar GitHub, Slack ve email üzerinden yürümektedir. Ancak, belirli aralıklarda
+online toplantı da yapılmaktadır. Toplantılarımız herkese açık bir şekilde yapılmaktadır. Katılıp kendinizi  tanıtabilir, katkıda bulunabilirsiniz. ...veya sadece dinleyebilirsiniz de.
+
+Toplantılarımız ile ilgili daha fazla bilgi için [Toplantılar](/contact/#toplantılar) sayfasına bakınız.
 
 OpenTR ile iletişime geçmek için [iletişim sayfamızı](/contact/) ziyaret edebilirsiniz.
 
@@ -31,7 +36,9 @@ Birey olarak:
 - [Slack](https://join.slack.com/t/open-tr/shared_invite/zt-1ut7os0ef-Sdv2nY4ciwiRKfgf4DbQtw) üzerinden bizimle iletişime geçin
 - Sosyal medyadan bizi takip edin
 
-**Katkıda bulunmak istediğinize dair bizimle özel olarak [email](info@opentr.foundation) ile veya açık bir şekilde [tartışma forumumuz](https://github.com/orgs/OpenTRFoundation/discussions) üzerinden iletişime geçebilirsiniz. Sizin için en uygun yöntemi beraber seçelim.**
+**Katkıda bulunmak istediğinize dair bizimle [çalışma grubu toplantılarımızda](/contact/#toplantılar) veya asenkron bir şekilde [tartışma forumumuz](https://github.com/orgs/OpenTRFoundation/discussions) üzerinden iletişime geçebilirsiniz. Sizin için en uygun yöntemi beraber seçelim.**
+
+Özel olarak [email](info@opentr.foundation) ile de iletişime geçebilirsiniz.
 
 ## Web sitesine katkıda bulunma
 
