@@ -4,7 +4,7 @@ title: "Çalışma Dönemleri"
 linkTitle: "Dönemler"
 description: >
   Çalışma dönemleri için yapılmış planlar, raporlar ve diğer çalışma belgeleri.
-weight: 300
+weight: 400
 ---
 
 {{% pageinfo %}}
