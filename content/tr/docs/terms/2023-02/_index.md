@@ -14,15 +14,16 @@ kadro ile strateji yeniden değerlendirilecek ve ilk belgeler oluşturulacaktır
 
 * Stratejinin çekirdek kadro ile birlikte yeniden değerlendirilmesi
 * İlk "geçici" strateji belgelerin oluşturulması
-  * Birey başlangıç rehberi
-  * Kurum başlangıç rehberi
-* Açık kaynak tanıtımı belgeleri
+  * [Birey başlangıç rehberi](https://github.com/OpenTRFoundation/OpenTR/issues/14)
+  * [Kurum başlangıç rehberi](https://github.com/OpenTRFoundation/OpenTR/issues/15)
+* [Açık kaynak tanıtımı belgeleri](https://github.com/OpenTRFoundation/OpenTR/issues/16)
 * Düzenli çalışma grubu toplantılarının oluşturulması
-* Türkçe sunum hazılanması
-* İngilizce özet sunumunu hazırlanması
-* Literatür taraması
-* Veri toplama ve analiz için kullanılabilecek kaynakların araştırılması
-* Anket için çalışma başlatılması
+* [Türkçe sunum hazılanması](https://github.com/OpenTRFoundation/OpenTR/issues/7)
+* [İngilizce özet sunumunun hazırlanması](https://github.com/OpenTRFoundation/OpenTR/issues/8)
+* [Literatür taraması](https://github.com/OpenTRFoundation/OpenTR/issues/17)
+* [Ekosistem analizi için araştırma başlatılması](https://github.com/OpenTRFoundation/OpenTR/issues/18)
+* [Veri toplama ve analiz için kullanılabilecek kaynakların araştırılması](https://github.com/OpenTRFoundation/OpenTR/issues/20)
+* [Anket için çalışma başlatılması](https://github.com/OpenTRFoundation/OpenTR/issues/19)
 
 Dönem çalışmalarını GitHub projesinde görebilir ve katkıda bulunabilirsiniz: https://github.com/orgs/OpenTRFoundation/projects/1/views/1
 
