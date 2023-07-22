@@ -36,10 +36,10 @@ OpenTR olarak Türkiye yazılım ekosistemini geliştirecek diğer oluşumlara, 
 
 ### Odak Alanlarımız
 
-##### Açık Kaynak
+#### Açık Kaynak
 Açık kaynak teknolojileri, Türkiye'de teknoloji geliştirme kültürünün yaygınlaşmasını sağlayacak bir araçtır. Açık kaynak teknolojilere katkı yaparak Türkiye'de mühendisliğin, inovasyonun ve yaratıcılığın ilerlemesini hedeflemekteyiz. OpenTR, Türk kuruluşları ve bireylerin açık kaynak projelerine katkıda bulunmalarını teşvik eder ve bu projelere katkı sağlamalarına yardımcı olacak kaynaklar sağlayacaktır.
 
-##### Açık Topluluk
+#### Açık Topluluk
 Açık topluluklar, katılımcıların birbirleriyle işbirliği yaparak birlikte çalıştıkları, birbirlerinden öğrendikleri ve birbirlerini destekledikleri yerlerdir. Açık kaynak teknolojilerindeki gelişmelerin ve yeniliklerin çoğu açık topluluklar tarafından gerçekleştirilir. OpenTR olarak açık toplulukların oluşma ve yürütme modelleri hakkında rehberlik kaynakları sunarak bu topluluklarda yer alan ve hatta liderlik yapan Türk kuruluş ve şahısların sayısını artırmayı hedeflemekteyiz.
 
 #### Açık İşbirliği
