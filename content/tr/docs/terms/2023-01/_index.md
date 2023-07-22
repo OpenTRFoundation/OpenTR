@@ -91,4 +91,6 @@ OpenTR Başlangıç
 
 ## Dönem Raporu
 
-Dönem sonunda hazırlanacaktır.
+Başlangıç döneminde yayınlanacak bir rapor bulunmamaktadır. Bu dönemde OpenTR'nin ilk adımları atılmıştır.
+
+Türkçe tanıtım sunumu: [OpenTR  - Tanıtım - 2023 06](https://docs.google.com/presentation/d/1lb8MDuRHV2Fjg68HT_HmJJzt_gBodUN6xunzcdccbB4/)
