@@ -46,7 +46,7 @@ Bu toplantıda hem OpenTR’nin kendi katılımcılarıyla tanışabilir ve gün
 OpenTR ile iletişim için bize email gönderebilirsiniz, Slack mesajı atabilirsiniz veya sosyal medya hesaplarımızdan bize ulaşabilirsiniz.
 
 * [<i class="fa fa-envelope"></i> info@opentr.foundation](mailto:info@opentr.foundation)
-* [<i class="fab fa-slack"></i> Slack](https://join.slack.com/t/open-tr/shared_invite/zt-1ut7os0ef-Sdv2nY4ciwiRKfgf4DbQtw) (davetiye linki)
+* [<i class="fab fa-slack"></i> Slack](https://join.slack.com/t/open-tr/shared_invite/zt-2045iugc5-VgCozOqAqs297Cws7m~vgw) (davetiye linki)
 
 {{% /markdown %}}
 
@@ -61,7 +61,7 @@ OpenTR ile iletişim için bize email gönderebilirsiniz, Slack mesajı atabilir
 OpenTR'ye katkıda bulunmak veya topluluğumuza katılmak için, **[katkıda bulunma rehberimizi](/docs/about/contribute-to-opentr/)** inceleyebilirsiniz.
 
 * [<i class="fa fa-comments"></i> Tartışma Forumu](https://github.com/orgs/OpenTRFoundation/discussions): Tartışmalarımızı GitHub Discussions üzerinden yapıyoruz.
-* [<i class="fab fa-slack"></i> Slack](https://join.slack.com/t/open-tr/shared_invite/zt-1ut7os0ef-Sdv2nY4ciwiRKfgf4DbQtw) (davetiye linki): Slack üzerinden topluluğumuza merhaba diyebilir ve daha doğrudan iletişim kurabilirsiniz.
+* [<i class="fab fa-slack"></i> Slack](https://join.slack.com/t/open-tr/shared_invite/zt-2045iugc5-VgCozOqAqs297Cws7m~vgw) (davetiye linki): Slack üzerinden topluluğumuza merhaba diyebilir ve daha doğrudan iletişim kurabilirsiniz.
 * [<i class="fab fa-github"></i> GitHub projeleri](https://github.com/orgs/OpenTRFoundation/projects): Her dönem yapılacak görevlerimizi GitHub projeleri üzerinden takip edebilirsiniz.
 
 {{% /markdown %}}

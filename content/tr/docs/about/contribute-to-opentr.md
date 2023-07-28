@@ -22,7 +22,7 @@ Kuruluş olarak:
 - [Rehberlerimiz ve strateji belgelerimiz](/docs) hakkında geri bildirimde bulunun, sizin durumunuzda nasıl kullanılabileceğini veya neden kullanılamayacağını anlamamıza yardımcı olun 
 - Çalışanlarınızı OpenTR'ye katkıda bulunmaya teşvik edin
 - [Tartışma forumumuzda](https://github.com/orgs/OpenTRFoundation/discussions) açık bir şekilde yeni bir tartışma başlatın
-- [Slack](https://join.slack.com/t/open-tr/shared_invite/zt-1ut7os0ef-Sdv2nY4ciwiRKfgf4DbQtw) üzerinden bizimle iletişime geçin
+- [Slack](https://join.slack.com/t/open-tr/shared_invite/zt-2045iugc5-VgCozOqAqs297Cws7m~vgw) üzerinden bizimle iletişime geçin
  
 
 Birey olarak:
@@ -33,7 +33,7 @@ Birey olarak:
 - Görevlerimizi takip ettiğimiz [proje panolarımızda](https://github.com/orgs/OpenTRFoundation/projects) yer alan bir görevi tamamlayın
 - Yeni bir rehber veya strateji belgesi oluşturun veya mevcut bir belgeyi güncelleyin
 - [Tartışma forumumuzda](https://github.com/orgs/OpenTRFoundation/discussions) açık bir şekilde yeni bir tartışma başlatın
-- [Slack](https://join.slack.com/t/open-tr/shared_invite/zt-1ut7os0ef-Sdv2nY4ciwiRKfgf4DbQtw) üzerinden bizimle iletişime geçin
+- [Slack](https://join.slack.com/t/open-tr/shared_invite/zt-2045iugc5-VgCozOqAqs297Cws7m~vgw) üzerinden bizimle iletişime geçin
 - Sosyal medyadan bizi takip edin
 
 **Katkıda bulunmak istediğinize dair bizimle [çalışma grubu toplantılarımızda](/contact/#toplantılar) veya asenkron bir şekilde [tartışma forumumuz](https://github.com/orgs/OpenTRFoundation/discussions) üzerinden iletişime geçebilirsiniz. Sizin için en uygun yöntemi beraber seçelim.**
