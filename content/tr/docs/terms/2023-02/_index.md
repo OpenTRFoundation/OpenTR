@@ -94,7 +94,7 @@ OpenTR Başlangıç
 
 ## Dönem Kararları
 
-* [Altuğ Bilgin Altıntaş](https://www.linkedin.com/in/altuga/) ve [Müge Şahin](https://www.linkedin.com/in/m%C3%BCge-%C5%9Fahin-kocahan-4ab85173/) OpenTR çekirdek ekibinde gönüllü olarak çalışmaya başlamışlardır.
+* [Altuğ Bilgin Altıntaş](https://www.linkedin.com/in/altuga/) ve [Müge Kocahan](https://www.linkedin.com/in/m%C3%BCge-%C5%9Fahin-kocahan-4ab85173/) OpenTR çekirdek ekibinde gönüllü olarak çalışmaya başlamışlardır.
 * Çekirdek kadro ilk toplantısını kapalı olarak gerçekleştirmiştir. Gelecek toplantılar açık olarak gerçekleştirilecektir.
 * "Açık veri" odak alanlarından çıkarılmıştır, ancak logo değiştirilmeyecektir.
 * İlk strateji ve rehberlik belgeleri Türkiye açık kaynak ekosistemine ait veri olmaksızın hazırlanacaktır.
