@@ -35,8 +35,8 @@ Aynı zamanda, açık kaynak sayesinde oluşturulan erişilebilirlik ve işbirli
 > _Açık kaynak rover projesinin IT Baş Teknoloji ve İnovasyon Görevlisi olan Tom Soderstrom, "Tahmin etmediğimiz şey, onun bir inovasyon platformu haline gelmesi oldu" diyor._
 > _Geniş bir katılımcı yelpazesinden gelen robotiklere olan büyüyen ilgi, JPL için olduğu kadar genel olarak robotiklerin geleceği için de inovasyona yol açmıştır (yarattığı şeyler arasında bir robotik kol ve bir makine öğrenimi destekli rover bulunmaktadır)._
 >
-> – “NASA JPL Uses Open-Source Technology to Let Enthusiasts Build Their Own Rovers”
-> >
+> – "NASA JPL Uses Open-Source Technology to Let Enthusiasts Build Their Own Rovers"
+>
 >– [Wired.com](https://www.wired.com/wiredinsider/2019/09/nasa-jpl-uses-open-source-technology-let-enthusiasts-build-rovers/)
 
 
@@ -76,6 +76,6 @@ Buna güzel bir örnek, Alman Hükümeti’nin Covid-19 pandemisi sırasında a�
 
 > _(...) Helge Braun, Şansölyelik Başkanı, 26 Nisan'da şunları onayladı: "Şimdi yalnızca iletişim bilgilerini cihazlarda saklayan ve güven oluşturan merkezi olmayan bir yaklaşımı teşvik edeceğiz." (...) 28 Nisan'da (Alman hükümeti) yetkililer, Deutsche Telekom ve SAP şirketlerinin uygulamayı geliştirmek ve piyasaya sürmekle görevlendirildiğini duyurdular. Şirket sözcüleri, bu iki şirketin bir ekip oluşturacağını ve açık kaynaklı bir çözüm üzerinde tam hızla çalışacaklarını doğruladılar. 16 Haziran 2020'de (...), Alman Corona-Warn-App, iki büyük mobil platformun uygulama mağazalarında kullanılabilir hale geldi. Apple'ın App Store'u ve Google Play aracılığıyla akıllı telefon kullanıcıları, COVID-19 virüsünün yayılmasını kontrol altına almak umuduyla federal hükümet tarafından görevlendirilen yazılımı indirebildiler. (...) Alman yazılım geliştiricisi ve dijital politika organizasyonu D64'ün eş başkanı Henning Tillmann, GitHub deposunu inceledikten sonra şunları belirtti: 'Kaynak kodunda hiçbir sürpriz yok, ki bu, takipçileri arayan ve veri koruması konusunda endişe edenler için istenen sonuçtur. (...) Uygulamanın konsepti ve koduna olan kamu ilgisi yüksekti; ilk depoların yayınlanmasından sonraki 2 hafta içinde 65000 eşsiz ziyaretçi, 260 bildirilen issue (yani sorunların ve hataların izlenmesi) ve 285 pull request (yani kodun değiştirilmesini önerme) bildirdi._
 >
-> – Trusting the Corona-Warn-App? Contemplations on trust and trustworthiness at the intersection of technology, politics and public debate\
+> – Trusting the Corona-Warn-App? Contemplations on trust and trustworthiness at the intersection of technology, politics and public debate
 > 
 > – [European Journal of Communication](https://journals.sagepub.com/doi/10.1177/02673231211028377)
