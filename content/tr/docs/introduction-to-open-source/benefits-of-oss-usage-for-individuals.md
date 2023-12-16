@@ -1,6 +1,6 @@
 ---
-title: "Açık kaynak yazılım kullanmanın bireyler için faydaları"
-linkTitle: "Açık kaynak yazılım kullanmanın bireyler için faydaları"
+title: "Bireyler için faydaları"
+linkTitle: "Bireyler için faydaları"
 weight: 60
 ---
 

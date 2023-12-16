@@ -1,6 +1,6 @@
 ---
-title: "Açık kaynak ile ilgili doğru bilinen yanlışlar"
-linkTitle: "Açık kaynak ile ilgili doğru bilinen yanlışlar" 
+title: "Doğru bilinen yanlışlar"
+linkTitle: "Doğru bilinen yanlışlar" 
 weight: 90
 ---
 

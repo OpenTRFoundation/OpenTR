@@ -1,6 +1,6 @@
 ---
-title: "Kamuda açık kaynak yazılım kullanmanın faydaları"
-linkTitle: "Kamuda açık kaynak yazılım kullanmanın faydaları"
+title: "Kamuya faydalar"
+linkTitle: "Kamuya faydalar"
 weight: 70
 ---
 

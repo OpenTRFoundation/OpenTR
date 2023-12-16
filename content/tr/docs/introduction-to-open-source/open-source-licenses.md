@@ -1,6 +1,6 @@
 ---
-title: "Açık Kaynak Lisansları"
-linkTitle: "Açık Kaynak Lisansları"
+title: "Lisanslar"
+linkTitle: "Lisanslar"
 description: Bu belgede, genel olarak lisans kavramını ve açık kaynak lisanslarının ne olduğunu okuyabilirsiniz.
 weight: 50
 ---

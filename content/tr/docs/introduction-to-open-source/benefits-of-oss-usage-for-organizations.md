@@ -1,6 +1,6 @@
 ---
-title: "Açık kaynak yazılım kullanmanın kuruluşlar için faydaları"
-linkTitle: "Açık kaynak yazılım kullanmanın kuruluşlar için faydaları"
+title: "Kuruluşlar için faydalar"
+linkTitle: "Kuruluşlar için faydalar"
 weight: 60
 ---
 
