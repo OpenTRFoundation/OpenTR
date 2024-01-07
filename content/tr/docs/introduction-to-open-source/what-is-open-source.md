@@ -1,6 +1,6 @@
 ---
-title: "Açık kaynak nedir?"
-linkTitle: "Açık kaynak nedir?"
+title: "Açık kaynak Nedir?"
+linkTitle: "Açık kaynak Nedir?"
 description: Bu belge, açık kaynağın basit tanımını ve açık kaynak ile ilgili temel kavramları içermektedir. 
 weight: 10
 ---
