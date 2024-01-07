@@ -102,4 +102,7 @@ OpenTR Başlangıç
 
 ## Dönem Raporu
 
-Dönem sonunda yayınlanacaktır.
+* Hedeflenen belgelerin tamamı hazırlanamasa da, oldukça kapsamlı bir literatür taraması yapıldı ve [açık kaynağa giriş belgeleri](https://opentr.foundation/docs/introduction-to-open-source/) hazırlandı.
+* "[Türkiye'de Açık Kaynağa Katkının Durumu](https://state.opentr.foundation/)" raporu hazırlandı ve yayınlandı. Bu rapor, Türkiye'de açık kaynak katkısının durumunu ortaya koyan ilk rapordur.
+* Raporun hazırlanması için gerekli yazılımlar ([OpenTRFoundation/cuttlecat](https://github.com/OpenTRFoundation/cuttlecat)) yazıldı ve [workflow](https://github.com/OpenTRFoundation/state-of-oss-contribution) oluşturuldu.
+* Anket için sosyal medyada küçük denemeler yapıldı.
