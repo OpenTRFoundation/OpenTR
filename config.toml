@@ -67,6 +67,9 @@ time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 # Weight used for sorting.
 weight = 1
+[languages.tr.params]
+# First one is picked as the Twitter card image if not set on page.
+images = ["images/open-tr-banner-01-website.png"]
 
 [languages]
 [languages.en]
@@ -76,6 +79,9 @@ languageName ="🇬🇧 English"
 contentDir = "content/en"
 # Weight used for sorting.
 weight = 2
+[languages.en.params]
+# First one is picked as the Twitter card image if not set on page.
+images = ["images/open-tr-banner-01-website-en.png"]
 
 [markup]
   [markup.goldmark]
