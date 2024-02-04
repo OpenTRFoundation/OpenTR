@@ -60,22 +60,28 @@ id = "G-SP3T9XWG2M"
 
 [languages.tr]
 title = "OpenTR"
-description = "OpenTR web sitesi"
+description = "OpenTR Türkiye'de açık kaynak projelere katkıda bulunmakta zorluk çeken kuruluş ve bireylerin bu zorluğu aşmasına yardımcı olan bir oluşumdur."
 languageName ="🇹🇷 Türkçe"
 contentDir = "content/tr"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 # Weight used for sorting.
 weight = 1
+[languages.tr.params]
+# First one is picked as the Twitter card image if not set on page.
+images = ["images/open-tr-banner-01-opengraph-card.png"]
 
 [languages]
 [languages.en]
 title = "OpenTR"
-description = "OpenTR website"
+description = "OpenTR provides open source strategy and guidance for organizations and individuals in Turkey."
 languageName ="🇬🇧 English"
 contentDir = "content/en"
 # Weight used for sorting.
 weight = 2
+[languages.en.params]
+# First one is picked as the Twitter card image if not set on page.
+images = ["images/open-tr-banner-01-opengraph-card-en.png"]
 
 [markup]
   [markup.goldmark]
