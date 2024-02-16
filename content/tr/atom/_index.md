@@ -22,15 +22,10 @@ ATOM Programı'nın önceki dönemleri hakkında bilgi almak için [arşiv sayfa
 <br/>
 
 <h3>
-    <span class="badge badge-primary">Yeni</span>
-    OpenTR Açık Topluluk Mentorluğu (ATOM) Programı'nın 2. dönemini tamamladık!
-</h3>
-
-<br/>
-
-<h3>
-{{% markdown %}}
-2023 yılı 2. dönemi raporunu [burada](./previous-terms/2023-02/) bulabilirsiniz.
+{{% markdown %}}    
+<span class="badge badge-primary">Yeni</span>
+ATOM'un 2024 yılı 1. dönemini planladık!
+Yeni dönemle ilgili bilgileri ve tarihleri, [dönem sayfasından](/atom/current-term/) görebilirsiniz.
 {{% /markdown %}}
 </h3>
 
@@ -70,7 +65,14 @@ Yazılımcı olma yolunda ilerleyen öğrenciler için de Google Summer of Code,
 - Toplam başarı oranı: %81
 - Toplam memnuniyet oranı: 4.62 / 5
 
+## Dönemler
+
+- [2024 1. Dönem (mevcut dönem)](/atom/current-term/)
+- [Önceki dönemler](/atom/previous-terms/)
+
 ## Belgeler
 - [Program kuralları](/atom/docs/program-rules/)
+- [Danışan adayı kılavuzu](/atom/docs/mentee-candidate-guide/)
 - [Danışan kılavuzu](/atom/docs/mentee-guide/)
+- [Mentor adayı kılavuzu](/atom/docs/mentor-candidate-guide/)
 - [Mentor kılavuzu](/atom/docs/mentor-guide/)

@@ -1,16 +1,26 @@
 
 ---
-title: "ATOM - Mevcut Dönem - 2024 1. Dönem"
-linkTitle: "Mevcut Dönem (2024 Dönem 1)"
-weight: 100
+title: "MENTOR APPLICATIONS OPEN"
+linkTitle: "MENTOR APPLICATIONS OPEN"
+weight: 2
 description: >
-  [8 Ağustos 2024 - 13 Ekim 2024]
+  [DATE - DATE]
+_build:
+  list: local
+  publishResources: false
+  render: always
 ---
 
 {{% pageinfo %}}
 
 <h3>
     <span class="badge badge-primary">Yeni</span>
+    ATOM'un 2024 yılı 1. dönemi mentor başvuruları açıldı!
+</h3>
+
+<br/>
+
+<h3>
     ATOM'un 2024 yılı 1. dönemini planladık! Aşağıda programla ilgili bilgiler ve tarihleri görebilirsiniz.
 </h3>
 
@@ -29,6 +39,10 @@ ATOM programı hakkında bilgi almak için [program anasayfasına](/atom) bakabi
 - Danışan başvuruları: 1 Temmuz 2024 - 21 Temmuz 2024
 - Beraber çalışma: 5 Ağustos 2024 - 13 Ekim 2024
 
+Mentor Başvuru formu: [Mentorluk Başvuru Formu](TODO)
+
+Danışan Başvuru formu 1 Temmuz 2024 tarihinde açılacaktır.
+
 ## Hedefler
 
 Programımızın amacı şunlardır:
@@ -46,6 +60,20 @@ Programımızın amacı şunlardır:
 
 Yazılımcı olma yolunda ilerleyen öğrenciler için de Google Summer of Code, LFX Mentorship, Outreachy gibi farklı programlar bulunmaktadır. JUG Istanbul, bunlara uygun profildeki kişileri bu programlara yönlendirmek için ayrıca bir çalışma yapacaktır.
 
+## Mentorlar için Önkoşullar
+
+- Bir açık kaynak projesi ve topluluğuna aktif katkı yapıyor olması veya daha önceden yapmış olması
+- Mentorluk tecrübesinin olması veya mentorluk yapmayı öğrenmek istemesi
+- Yazılı iletişim becerisinin olması
+- Program metodolojisinde yazılan sınırlar dahilinde, danışan tarafından ulaşılabilir olması
+- Pozitif ve hevesli olması
+
+[Mentor aday kılavuzunda](/atom/docs/mentor-candidate-guide), mentorlardan beklentiler ve ipuçları belirtilmiştir.
+
+## Mentor Başvuruları
+
+Programıza mentor olarak başvurmak için 10 Haziran 2024 - 25 Haziran 2024 tarihlerinde açık olacak olan [**Mentorluk Başvuru Formu**](TODO)nu doldurabilirsiniz.
+
 ## Danışanlar için Önkoşullar
 
 - Email listelerinde ve Github benzeri platformlarda yazışmaları takip edebilecek seviyede İngilizce yeterliliğine sahip olmak
@@ -62,20 +90,6 @@ Yazılımcı olma yolunda ilerleyen öğrenciler için de Google Summer of Code,
 Programımıza danışan olarak başvurmak için 1 Temmuz 2024 tarihinde açılacak olan **danışan başvuru formunu** doldurabilirsiniz.
 
 Danışan başvuruları 21 Temmuz 2024 tarihine kadar alınacaktır. Detaylı bilgi için [tarih çizelgesi](#tarih-çizelgesi)ne göz atabilirsiniz.
-
-## Mentorlar için Önkoşullar
-
-- Bir açık kaynak projesi ve topluluğuna aktif katkı yapıyor olması veya daha önceden yapmış olması
-- Mentorluk tecrübesinin olması veya mentorluk yapmayı öğrenmek istemesi
-- Yazılı iletişim becerisinin olması
-- Program metodolojisinde yazılan sınırlar dahilinde, danışan tarafından ulaşılabilir olması
-- Pozitif ve hevesli olması
-
-[Mentor aday kılavuzunda](/atom/docs/mentor-candidate-guide), mentorlardan beklentiler ve ipuçları belirtilmiştir.
-
-## Mentor Başvuruları
-
-Programıza mentor olarak başvurmak için 10 Haziran 2024 - 25 Haziran 2024 tarihlerinde açık olacak olan **Mentorluk Başvuru Formu**nu doldurabilirsiniz.
 
 ## Belgeler
 

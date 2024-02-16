@@ -1,10 +1,14 @@
 
 ---
-title: "ATOM - 2023 yılı 2. Dönemi"
-linkTitle: "2023 2. Dönem"
-weight: 998
+title: "TERM FINISHED"
+linkTitle: "TERM FINISHED"
+weight: 5
 description: >
-  [30 Ekim 2023 - 5 Ocak 2024]
+  [DATE - DATE]
+_build:
+  list: local
+  publishResources: false
+  render: always
 ---
 
 OpenTR olarak düzenlediğimiz Açık Kaynak Topluluğu Mentorluk Programı’nın (ATOM) 2023 yılı 2. dönemi başarıyla tamamlandı!
@@ -19,17 +23,17 @@ Sevgili Topluluk Üyeleri,
 
 OpenTR olarak düzenlediğimiz Açık Kaynak Topluluğu Mentorluk Programı'nın (ATOM) 2023 yılı 2. dönemi başarıyla tamamlandı!
 Bu programda, [geçen dönemde](/atom/previous-terms/2023-01/) olduğu gibi, Türkiye'deki yazılımcılara açık kaynak projelerde deneyim kazanma fırsatı sunmayı ve açık kaynak yazılımcı sayısını artırmayı hedefledik.
- 
+
 Programımızın ilk döneminde mentor ve danışan sayılarını sınırlı tutmuştuk. Bu 2. dönemimizde ise, toplamda 10 mentorumuz ve 10 danışanımız vardı.
 Danışanların mentorlarla toplam çalışma zamanı 30 Ekim - 5 Ocak 2024 arası olmak üzere 10 hafta idi.
 
 Progam sürecinde danışanlarımız [Lens](https://github.com/lensapp/lens), [Knative](https://knative.dev/docs/), [Apache Pulsar](https://pulsar.apache.org/), [Hibernate Reactive](https://hibernate.org/reactive/), [Strimzi](https://strimzi.io/), [Kyverno](https://kyverno.io/), [postgresql-hll](https://github.com/citusdata/postgresql-hll), [Openverse](https://openverse.org/), [Apache Shenyu](https://github.com/apache/shenyu) ve birkaç projeye daha katkıda bulundular.
-Danışanlarımızın bazıları başlangıç seviyesinde, bazıları ise daha ileri seviyede PR’lar gönderdi, topluluk etkileşiminde bulundu ve topluluk toplantılarına katıldı. 
+Danışanlarımızın bazıları başlangıç seviyesinde, bazıları ise daha ileri seviyede PR’lar gönderdi, topluluk etkileşiminde bulundu ve topluluk toplantılarına katıldı.
 
 Yine önceki dönemdeki gibi, program sonuçlandırması aşamasında, program katılımcılarının, yani hem mentorların hem de danışanların, doldurduğu anketler ile elde edilen kazanımlar, karşılaşılan zorluklar ve programın nasıl iyileştirilebileceği hakkında fikir sahibi olduk.
 
 > "Öncelikle, GitHub'da issue ve PR sistemi nasıl çalışır, açık kaynak projelerindeki katkı yapma süreçleri nasıl işler bu konularda çok daha iyi bir anlayışa sahip oldum. Bunun yanında, bolca testler ile uğraştım, unit testing ve Mockito hakkında güzel bilgiler ve pratik edindim."
-> 
+>
 > – ATOM danışanı
 
 Program sonunda yaptığımız anketlerden çıkarılabilecek en önemli birkaç çıkarım ise:
@@ -56,8 +60,8 @@ Katılımınız ve desteğiniz için teşekkür ederiz!
 
 ## Programı Tamamlayan Danışanlar
 
-{{< mentee photo="umut_bilal_okur.jpeg" name="Umut Bilal Okur" title="Software Developer Intern" company="Softtech" 
-  github="ubo-dev" linkedin="umut-bilal-okur-2050a3235" mentor="Cihad Güzel" >}}
+{{< mentee photo="umut_bilal_okur.jpeg" name="Umut Bilal Okur" title="Software Developer Intern" company="Softtech"
+github="ubo-dev" linkedin="umut-bilal-okur-2050a3235" mentor="Cihad Güzel" >}}
 
 <hr/>
 
@@ -121,7 +125,7 @@ Tüm bitiş tarihleri TSİ 18:00'dir.
 Mentorluk yapabileceği proje ve topluluklar:
 - [pg\_auto\_failover](https://github.com/hapostgres/pg_auto_failover)
 - [postgres\_hll](https://github.com/citusdata/postgresql-hll)
-{{< /mentor >}}
+  {{< /mentor >}}
 
 <hr/>
 
@@ -130,7 +134,7 @@ Mentorluk yapabileceği proje ve topluluklar:
 - [Apache Gora](https://gora.apache.org/)
 - [Apache Nutch](https://nutch.apache.org/)
 - [Apache ManifoldCF](https://manifoldcf.apache.org/)
-{{< /mentor >}}
+  {{< /mentor >}}
 
 <hr/>
 
@@ -138,14 +142,14 @@ Mentorluk yapabileceği proje ve topluluklar:
 Mentorluk yapabileceği proje ve topluluklar:
 - [Kubernetes](https://kubernetes.io/)
 - [OpenShift Community Distribution](https://www.okd.io/)
-{{< /mentor >}}
+  {{< /mentor >}}
 
 <hr/>
 
 {{< mentor photo="olga_bulat.jpeg" name="Olga Bulat" title="Code Wrangler" company="Automattic" github="obulat" linkedin="olga-bulat-s" >}}
 Mentorluk yapabileceği proje ve topluluklar:
 - [Openverse](https://github.com/wordpress/openverse)
-{{< /mentor >}}
+  {{< /mentor >}}
 
 <hr/>
 
@@ -153,14 +157,14 @@ Mentorluk yapabileceği proje ve topluluklar:
 Mentorluk yapabileceği proje ve topluluklar:
 - [Ansible](https://github.com/ansible)
 - [Strimzi](https://github.com/strimzi)
-{{< /mentor >}}
+  {{< /mentor >}}
 
 <hr/>
 
 {{< mentor photo="erkan_erol.jpeg" name="Erkan Erol" title="Platform Engineer" company="Giant Swarm" github="erkanerol" linkedin="erkanerol" >}}
 Mentorluk yapabileceği proje ve topluluklar:
 * [Kubernetes](https://github.com/kubernetes)
-{{< /mentor >}}
+  {{< /mentor >}}
 
 <hr/>
 
@@ -169,7 +173,7 @@ Mentorluk yapabileceği proje ve topluluklar:
 - [Jakarta EE](https://jakarta.ee/)
 - [Hibernate](https://hibernate.org/)
 - [Spring](https://github.com/spring-projects)
-{{< /mentor >}}
+  {{< /mentor >}}
 
 <hr/>
 
@@ -177,7 +181,7 @@ Mentorluk yapabileceği proje ve topluluklar:
 Mentorluk yapabileceği proje ve topluluklar:
 * [Spring Cloud](https://github.com/spring-cloud)
 * [Apache ShenYu](https://shenyu.apache.org/)
-{{< /mentor >}}
+  {{< /mentor >}}
 
 <hr/>
 
@@ -186,7 +190,7 @@ Mentorluk yapabileceği proje ve topluluklar:
 * [Jakarta EE](https://jakarta.ee/)
 * [Microprofile](https://projects.eclipse.org/projects/technology.microprofile)
 * [Apache Commons](https://commons.apache.org/)
-{{< /mentor >}}
+  {{< /mentor >}}
 
 <hr/>
 
@@ -195,4 +199,5 @@ Mentorluk yapabileceği proje ve topluluklar:
 * [Knative](https://github.com/knative/)
 * [Kubernetes](https://github.com/kubernetes)
 * [Operator Framework](https://github.com/operator-framework)
-{{< /mentor >}}
+  {{< /mentor >}}
+
