@@ -55,6 +55,7 @@ OpenTR olarak, aşağıdaki çıktıları sağlamayı hedeflemekteyiz:
 - Vaka çalışmaları
 - Açık işbirliğini katalize eden kuruluşlar ve bireyler için rehberlik belgeleri
 - Açık kaynak ile ilgili tanımlar, kavramlar ve terminoloji ile ilgili Türkçe kaynaklar
+- Açık kaynağa katkı için mentorluk programları
 
 ### OpenTR Mindmap
 
@@ -220,6 +221,14 @@ mindmap
   ::icon(fa fa-search)
     Anketler
     ::icon(fa fa-clipboard-list)
+    Veri Madenciliği
+    ::icon(fa fa-database)
+  Mentorluk
+  ::icon(fa fa-chalkboard-teacher)
+    Senkron Mentorluk
+    ::icon(fa fa-user-graduate)
+    Asenkron Mentorluk
+    ::icon(fa fa-user-graduate)
   Haberler
     ::icon(fa fa-newspaper)
     OpenTR Duyuruları
@@ -247,7 +256,6 @@ mindmap
     ::icon(fa fa-user-graduate)
     Yönetici
     ::icon(fa fa-user-tie)
-
 ```
 
 <hr class="my-5">
