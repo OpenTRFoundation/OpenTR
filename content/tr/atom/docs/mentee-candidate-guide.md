@@ -5,6 +5,11 @@ description: Bu kılavuz, programın duyurusu sırasında danışan adaylarını
 weight: 20
 ---
 
+<img src="/images/atom-logo-horizontal-800x251.png" style="max-height: 200px; text-align: center;"/>
+
+<br/>
+<br/>
+
 Bu kılavuz, [OpenTR Açık Topluluk Mentorluğu (ATOM) Programı Kuralları](../program-rules/) dahilinde yazılmıştır.
 
 ## Giriş

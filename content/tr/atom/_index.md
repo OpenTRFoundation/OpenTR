@@ -8,8 +8,7 @@ menu:
 no_list: true
 ---
 
-[//]: # (TODO horizontal logo)
-<img src="/images/atom-logo-800x724.png" style="max-height: 200px; text-align: center;"/>
+<img src="/images/atom-logo-horizontal-800x251.png" style="max-height: 200px; text-align: center;"/>
 
 {{% pageinfo %}}
 

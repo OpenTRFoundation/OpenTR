@@ -7,6 +7,11 @@ description: >
   [29 Mayıs 2023 - 21 Temmuz 2023]
 ---
 
+<img src="/images/atom-logo-horizontal-800x251.png" style="max-height: 200px; text-align: center;"/>
+
+<br/>
+<br/>
+
 OpenTR Açık Topluluk Mentorluğu (ATOM) Programı'nın ilk dönemini tamamladık!
 
 Aşağıda programımızın bu ilk dönemi hakkında yazdığımız sonuç raporunu bulabilirsiniz.

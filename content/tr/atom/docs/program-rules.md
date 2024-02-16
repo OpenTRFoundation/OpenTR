@@ -5,6 +5,8 @@ description: Bu belgede ATOM programının kuralları ve katılımcılar için b
 weight: 10
 ---
 
+<img src="/images/atom-logo-horizontal-800x251.png" style="max-height: 200px; text-align: center;"/>
+
 {{% pageinfo %}}
 Bu belge, ATOM programının kuralları için bir referans belgesidir.
 

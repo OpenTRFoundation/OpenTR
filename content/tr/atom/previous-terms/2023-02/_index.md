@@ -7,6 +7,11 @@ description: >
   [30 Ekim 2023 - 5 Ocak 2024]
 ---
 
+<img src="/images/atom-logo-horizontal-800x251.png" style="max-height: 200px; text-align: center;"/>
+
+<br/>
+<br/>
+
 OpenTR olarak düzenlediğimiz Açık Kaynak Topluluğu Mentorluk Programı’nın (ATOM) 2023 yılı 2. dönemi başarıyla tamamlandı!
 
 Aşağıda programımızın 2. dönemi hakkında yazdığımız sonuç raporunu bulabilirsiniz.

@@ -7,6 +7,8 @@ description: >
   [8 Ağustos 2024 - 13 Ekim 2024]
 ---
 
+<img src="/images/atom-logo-horizontal-800x251.png" style="max-height: 200px; text-align: center;"/>
+
 {{% pageinfo %}}
 
 <h3>

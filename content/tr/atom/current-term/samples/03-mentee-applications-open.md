@@ -11,6 +11,8 @@ _build:
   render: always
 ---
 
+<img src="/images/atom-logo-horizontal-800x251.png" style="max-height: 200px; text-align: center;"/>
+
 {{% pageinfo %}}
 
 <h3>
