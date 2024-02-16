@@ -19,10 +19,14 @@ ATOM Programı'nın önceki dönemleri hakkında bilgi almak için [arşiv sayfa
 {{% /markdown %}}
 </h3>
 
+<br/>
+
 <h3>
     <span class="badge badge-primary">Yeni</span>
     OpenTR Açık Topluluk Mentorluğu (ATOM) Programı'nın 2. dönemini tamamladık!
 </h3>
+
+<br/>
 
 <h3>
 {{% markdown %}}
