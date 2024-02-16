@@ -5,6 +5,8 @@ linkTitle: "ATOM Mentorluk programı OpenTR'ye Taşındı"
 date: 2024-03-01
 ---
 
+# TODO date
+
 [JUG Istanbul](https://www.jugistanbul.org/atom)'da başlayan ATOM Mentorluk programı, OpenTR topluluğuna taşındı!
 
 JUG Istanbul bilinirliği yüksek ve bağımsız bir topluluk.
