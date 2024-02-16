@@ -4,7 +4,7 @@ linkTitle: İletişim
 description: OpenTR'nin çalışmalarından haberdar olmak için duyuru mail listemize kaydolabilirsiniz. Aynı zamanda, bizimle iletişime geçmek için çeşitli kanalları kullanabilirsiniz.
 menu:
     main:
-        weight: 30
+        weight: 40
 ---
 
 <div class="container text-left" style="font-size: larger;">

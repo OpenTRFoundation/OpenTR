@@ -1,0 +1,28 @@
+<div class="card border-light" style="width:100%; border: none;">
+    <div class="row no-gutters">
+        <div class="col-md-4">
+            <div style="height: 100%; display: flex; align-items: center; justify-content: center;">
+                <img src="/images/mentors/{{ .Get "photo" }}" class="rounded-circle" style="width:250px;">
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title display-4">{{ .Get "name" }}</h5>
+                <p class="card-text lead">
+                    {{ .Get "title" }}
+                    <br/>
+                    @ {{ .Get "company" }}
+                </p>
+                {{ .Inner | markdownify }}
+                <p class="card-text" style="font-size:2rem;">
+                    {{ if isset .Params "github" }}
+                    <a href="https://github.com/{{ .Get "github" }}" target="_blank" class="card-link text-muted"><i class="fab fa-github"></i></a>
+                    {{ end }}
+                    {{ if isset .Params "linkedin" }}
+                    <a href="https://www.linkedin.com/in/{{ .Get "linkedin" }}" target="_blank" class="card-link text-muted"><i class="fab fa-linkedin"></i></a>
+                    {{ end }}
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
