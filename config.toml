@@ -143,8 +143,7 @@ github_repo = "https://github.com/OpenTRFoundation/opentr"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-# TODO: to be updated
-gcs_engine_id = "1637cc6af98914810"
+# gcs_engine_id = "1637cc6af98914810"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
