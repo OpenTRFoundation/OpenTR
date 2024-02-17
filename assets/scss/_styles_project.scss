@@ -9,6 +9,18 @@
   }
 }
 
+// navbar is fixed in md, but not in others.
+// so, add some padding to avoid the content to be hidden by the navbar
+// style from large breakpoint and down
+main {
+  padding-top: 6rem;
+}
+@include media-breakpoint-down(md) {
+  main {
+    padding-top: 1rem;
+  }
+}
+
 // logo font to use in the navbar
 @import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
 
@@ -65,4 +77,69 @@ footer {
 
 .td-sidebar-toc{
   padding-top: 1.75rem;
+}
+
+.hero{
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: block;
+
+  .image-container{
+    overflow: hidden;
+
+    img{
+      width: 100%;
+      height: auto;
+      opacity: 0.9;
+
+      &:hover{
+        opacity: 1;
+      }
+    }
+  }
+
+  .image-container.backdrop{
+    img{
+      opacity: 0.20;
+      filter: blur(0.15rem);
+      &:hover{
+        opacity: 0.3;
+      }
+    }
+    background-color: white;
+  }
+
+  .hero-text{
+    position: absolute;
+    left: 0;
+    display: block;
+    width: 100%;
+    top: 10%;
+    font-size: 175%;
+    text-align: center;
+    font-weight: 300;
+    padding-left: 30px;
+    padding-right: 30px;
+    letter-spacing: 0.25rem;
+    color: #545454;
+  }
+
+  .lead{
+    padding-top: 0.5rem;
+  }
+}
+
+// style from large breakpoint and down
+@include media-breakpoint-down(lg) {
+  .hero{
+    .image-container.backdrop{
+      height: 40% !important;
+      //overflow: hidden;
+    }
+    p.hero-text{
+      bottom: unset;
+      top: 5%;
+    }
+  }
 }
