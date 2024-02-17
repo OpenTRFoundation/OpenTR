@@ -115,7 +115,7 @@ footer {
     left: 0;
     display: block;
     width: 100%;
-    top: 10%;
+    bottom: 25%;
     font-size: 175%;
     text-align: center;
     font-weight: 300;
@@ -127,19 +127,5 @@ footer {
 
   .lead{
     padding-top: 0.5rem;
-  }
-}
-
-// style from large breakpoint and down
-@include media-breakpoint-down(lg) {
-  .hero{
-    .image-container.backdrop{
-      height: 40% !important;
-      //overflow: hidden;
-    }
-    p.hero-text{
-      bottom: unset;
-      top: 5%;
-    }
   }
 }
