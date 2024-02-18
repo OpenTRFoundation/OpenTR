@@ -129,3 +129,35 @@ footer {
     padding-top: 0.5rem;
   }
 }
+
+.lead-display{
+  @extend .fs-4;
+  @extend .fw-light;
+  @extend .lh-sm;
+  letter-spacing: 0.1rem;
+}
+
+.lead-display-sm{
+  @extend .fs-5;
+  @extend .fw-light;
+  @extend .lh-sm;
+  letter-spacing: 0.1rem;
+}
+
+.lead-display-xs{
+  @extend .fs-6;
+  @extend .fw-light;
+  @extend .lh-sm;
+}
+
+@include media-breakpoint-up(lg) {
+  .lead-display {
+    font-size: 2rem !important;
+  }
+  .lead-display-sm {
+    font-size: 1.5rem !important;
+  }
+  .lead-display-xs {
+    font-size: 1.25rem !important;
+  }
+}
