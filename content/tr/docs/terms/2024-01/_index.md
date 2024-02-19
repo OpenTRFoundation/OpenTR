@@ -21,6 +21,7 @@ Bu dönemde OpenTR'nin lansmanı yapılacaktır. Ancak, lansmandan önce bazı h
 * [İngilizce özet sunumunun hazırlanması](https://github.com/OpenTRFoundation/OpenTR/issues/8)
 * [Anket için çalışma başlatılması](https://github.com/OpenTRFoundation/OpenTR/issues/19)
 * "[Türkiye'de Açık Kaynağa Katkının Durumu](https://state.opentr.foundation/)" raporunun iyileştirilmesi
+* ATOM Mentorluk Programı'nın JUG Istanbul'dan taşınması
 
 Dönem çalışmalarını GitHub projesinde görebilir ve katkıda bulunabilirsiniz: https://github.com/orgs/OpenTRFoundation/projects/6/views/1
 
@@ -54,13 +55,19 @@ OpenTR Lansman Dönemi
   ::icon(fa fa-file-alt)
       Raporun iyileştirilmesi
       ::icon(fa fa-file-alt)
-    
+  
+  ATOM Mentorluk Programı
+  ::icon(fa fa-graduation-cap)
+    JUG Istanbul'dan taşınması için çalışma
+    ::icon(fa fa-map-marker)
 ```
 
 ## Dönem Kararları
 
-* 
-
+* JUG Istanbul'dan ATOM Mentorluk Programı'nın taşınması kararı alındı.
+* OpenTR Lansmanı'nın Mayıs 2024'te yapılması kararı alındı.
+* Strateji belgelerinin geçici olarak (anket yapılmadan) oluşturulması kararı alındı.
+* Asenkron mentorluk programı için ileride çalışma başlatılması kararı alındı.
 
 ## Dönem Raporu
 
