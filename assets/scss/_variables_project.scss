@@ -16,3 +16,13 @@ $light: #ebfdf8 !default; // TODO: consider using BS value
 
 $google_font_name: "Open Sans";
 $google_font_family: "Open+Sans:300,300i,400,400i,700,700i";
+
+
+$accordion-color:                         #333;
+$accordion-bg:                            white;
+$accordion-border-color:                  #ccc;
+$accordion-button-bg:                     rgba(0, 0, 0, 0.03);
+$accordion-button-active-bg:              rgba(0, 0, 0, 0.08);
+$accordion-button-active-color:           #333;
+$accordion-button-focus-box-shadow:       0 0 0 0.05rem rgba(0, 0, 0, 0.25);
+//$accordion-button-focus-box-shadow:       0 0 0 0.25rem red;

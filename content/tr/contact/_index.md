@@ -7,7 +7,7 @@ menu:
         weight: 30
 ---
 
-<div class="container text-left" style="margin-top: 6rem; font-size: larger;">
+<div class="container text-left" style="font-size: larger;">
 
 {{% markdown %}}
 

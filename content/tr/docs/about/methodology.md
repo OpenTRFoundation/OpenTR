@@ -30,7 +30,7 @@ Dönem hedefleri, çıktıları ve raporlarının bulunduğu dönem belgeleri i�
   'secondaryColor': '#00FF00',
   'tertiaryColor': '#0000FF',
   'fontFamily': "Open Sans",
-  'fontSize': '0.8em'
+  'fontSize': '1rem'
   }
   }
   }%%

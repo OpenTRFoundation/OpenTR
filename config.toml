@@ -69,7 +69,7 @@ time_format_blog = "02.01.2006"
 weight = 1
 [languages.tr.params]
 # First one is picked as the Twitter card image if not set on page.
-images = ["images/open-tr-banner-01-opengraph-card.png"]
+images = ["images/open-tr-banner-02-opengraph-card.png"]
 
 [languages]
 [languages.en]
@@ -81,7 +81,7 @@ contentDir = "content/en"
 weight = 2
 [languages.en.params]
 # First one is picked as the Twitter card image if not set on page.
-images = ["images/open-tr-banner-01-opengraph-card-en.png"]
+images = ["images/open-tr-banner-02-opengraph-card-en.png"]
 
 [markup]
   [markup.goldmark]
@@ -143,8 +143,7 @@ github_repo = "https://github.com/OpenTRFoundation/opentr"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-# TODO: to be updated
-gcs_engine_id = "1637cc6af98914810"
+# gcs_engine_id = "1637cc6af98914810"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
@@ -235,7 +234,7 @@ enable = false
     extended = true
     min = "0.111.0"
   [[module.imports]]
-    path = "github.com/OpenTRFoundation/opentr-docsy-custom"
+    path = "github.com/google/docsy"
     disable = false
   [[module.imports]]
     path = "github.com/google/docsy/dependencies"

@@ -24,25 +24,19 @@
     {{ $open = . -}}
     {{ end -}}
 
-    <div class="card">
-        <div class="card-header" id="heading{{- $itemid -}}">
-            <h2 class="mb-0">
-                <button class="btn btn-link btn-block text-left {{- cond ( eq $index "00" ) "" " collapsed" -}}"
-                    type="button" data-toggle="collapse"
-                    data-target="#collapse{{- $itemid -}}">
-                {{ index . "header" | markdownify }}
-                </button>
-            </h2>
+    <div class="accordion-item">
+        <div class="accordion-header" id="heading{{- $itemid -}}">
+            <button class="accordion-button {{- cond ( eq $index "00" ) "" " collapsed" -}}" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{- $itemid -}}"
+            aria-controls="collapse{{- $itemid -}}" aria-expanded="{{- cond ( eq $index "00" ) "true" "false" -}}">
+            {{ index . "header" | markdownify }}
+            </button>
         </div>
-
-        <div id="collapse{{- $itemid -}}"
-             class="collapse {{- cond ( eq $index "00" ) " show" ""  -}}"
-             data-parent="#accordion-{{- $.Ordinal -}}">
-        <div class="card-body">
+        <div id="collapse{{- $itemid -}}" class="accordion-collapse {{ cond $open "open" "collapse" }} {{- cond ( eq $index "00" ) " show" ""  -}}"
+        aria-labelledby="heading{{- $itemid -}}" {{ if not $alwaysOpen -}}data-bs-parent="#accordion-{{- $.Ordinal -}}"{{- end }}>
+        <div class="accordion-body">
             {{ index . "content" }}
         </div>
-
     </div>
 </div>
-
 {{- end }}
+</div>
