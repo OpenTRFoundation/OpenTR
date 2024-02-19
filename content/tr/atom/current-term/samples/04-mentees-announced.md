@@ -6,9 +6,10 @@ weight: 4
 description: >
   [DATE - DATE]
 _build:
-  list: local
+  list: never
   publishResources: false
   render: always
+  # not listed, but still published at ./04-mentees-announced/
 ---
 
 <img src="/images/atom-logo-horizontal-800x251.png" style="max-height: 200px; text-align: center;"/>

@@ -6,9 +6,10 @@ weight: 3
 description: >
   [DATE - DATE]
 _build:
-  list: local
+  list: never
   publishResources: false
   render: always
+  # not listed, but still published at ./03-mentee-applications-open/
 ---
 
 <img src="/images/atom-logo-horizontal-800x251.png" style="max-height: 200px; text-align: center;"/>
