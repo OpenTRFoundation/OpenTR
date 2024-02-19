@@ -12,7 +12,7 @@ description: >
 {{% pageinfo %}}
 
 <h3>
-    <span class="badge badge-primary">Yeni</span>
+    <span class="badge text-bg-primary">Yeni</span>
     ATOM'un 2024 yılı 1. dönemini planladık! Aşağıda programla ilgili bilgiler ve tarihleri görebilirsiniz.
 </h3>
 

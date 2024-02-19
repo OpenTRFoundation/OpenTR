@@ -16,7 +16,7 @@ _build:
 {{% pageinfo %}}
 
 <h3>
-    <span class="badge badge-primary">Yeni</span>
+    <span class="badge text-bg-primary">Yeni</span>
     ATOM Programı'nın 2024 yılı 1. döneminde başvurular arasından, mentorlarımız ile eşleştirdiğimiz TODO danışanı duyurmaktan mutluluk duyuyoruz!
 </h3>
 
