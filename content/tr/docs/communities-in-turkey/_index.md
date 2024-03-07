@@ -7,7 +7,7 @@ weight: 100
 
 | **Topluluk**                                                                               | **İlgi Alanı**                                                                        | **Aktiviteler**                                   |
 |--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------|
-| [OpenTR](https://opentr.foundation/)                                                       | Açık kaynak kültürü                                                                   | Belge, online destek, mentorluk, ekosistem raporu |
+| [OpenTR](https://opentr.foundation/)                                                       | Açık kaynak know-how'ı                                                                | Belge, online destek, mentorluk, ekosistem raporu |
 | [JUG Istanbul](https://www.jugistanbul.org/)                                               | Java dili ve ekosistemi                                                               | Konferans, online etkinlik, podcast               |
 | [FolksDev](https://bento.me/folksdev)                                                      | Tüm diller ve platformlar ve nereden başlanacağı ve hangi dilin/platformun seçileceği | Online destek, konferans, online etkinlik         |
 | [Cloud Native Istanbul](https://community.cncf.io/istanbul/)                               | Cloud Native teknolojiler                                                             | Konferans, online etkinlik                        |
