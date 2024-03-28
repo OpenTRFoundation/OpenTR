@@ -16,4 +16,4 @@ weight: 110
 | [Tech Leaders Summit](https://techleaders.devnot.com/)      | İstanbul         | Genel yazılım           | 27 Şubat 2025       |
 | [ÖzgürKonf](https://ozgurkonf.com/)                         | İstanbul         | Web3                    | 17 Şubat 2024       | 
 | [JSKonf](https://jskonf.com/)                               | İstanbul         | Javascript ekosistemi   | 1 Haziran 2024      | 
-| [DevFest](https://gdg.community.dev/events/)                | Birden çok şehir | Google teknolojileri    | tarih net değil     |
+| [DevFest](https://gdg.community.dev/events/)                | Birden çok şehir | Google teknolojileri    | - |
