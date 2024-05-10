@@ -37,7 +37,7 @@ Açık kaynak yazılım, sadece kaynak kodunun açık olması anlamına gelmez. 
 Açık kaynak yazılımlar genellikle ücretsiz olarak sunulsa da, bu tamamen bedava oldukları anlamına gelmez. İşletmeler veya bireyler, destek, güvenlik güncellemeleri, eğitim ve özel gereksinimlere uygun özelliklere erişim için çeşitli hizmetler ve lisans modelleri için ödeme yapabilirler.
 
 
-## Açık kaynak yazılımlar sadece yazılım firmaları ve yazılımcılar içindirımcılar-içindir
+## Açık kaynak yazılımlar sadece yazılım firmaları ve yazılımcılar içindir
 
 Açık kaynak projeleri sadece yazılım firmaları ve profesyonel yazılımcılar için değil, aynı zamanda bağımsız geliştiriciler, akademisyenler, hobiistler ve endüstri dışındaki bireyler için de uygundur. Herkes, açık kaynak topluluklarına katkıda bulunabilir ve bu projeleri kullanabilir.
 

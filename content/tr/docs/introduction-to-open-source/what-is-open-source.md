@@ -13,9 +13,9 @@ Açık kaynak, bir yazılımın kaynak kodlarının genel olarak herkese açık 
 
 ## Temel Özellikler
 
-- **Kaynak Kod Erişilebilirliği**: Açık kaynak yazılımların kaynak kodları genel olarak erişilebilirdir. Bu, ilgilenlerin yazılımın nasıl çalıştığını anlamalarını ve gerektiğinde değişiklikler yapmalarını sağlar.
-- **Değiştirme Özgürlüğü**: Açık kaynak yazılımları kullanıcılar, yazılımı kendi ihtiyaçlarına göre uyarlayabilir ve geliştirebilir.
-- **Dağıtma Özgürlüğü**: Açık kaynak yazılımlar, kullanıcıların kopyalama ve dağıtma özgürlüğüne sahiptir. Bu, yazılımın ücretsiz olarak paylaşılabileceği anlamına gelir.
+- **Kaynak Kod Erişilebilirliği**: Açık kaynak yazılımların kaynak kodları genel olarak erişilebilirdir. Bu, ilgilenenlerin yazılımın nasıl çalıştığını anlamalarını ve gerektiğinde değişiklikler yapmalarını sağlar.
+- **Değiştirme Özgürlüğü**: Açık kaynak yazılım kullanıcıları, yazılımı kendi ihtiyaçlarına göre uyarlayabilir ve geliştirebilir.
+- **Dağıtma Özgürlüğü**: Açık kaynak yazılımlar, kullanıcılarına kopyalama ve dağıtma özgürlüğü sunarlar. Bu, yazılımın ücretsiz olarak paylaşılabileceği anlamına gelir.
 
 
 ## Kapalı Kaynak Arasındaki Farklar
