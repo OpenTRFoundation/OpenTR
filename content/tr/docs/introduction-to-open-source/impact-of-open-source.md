@@ -18,7 +18,7 @@ Açık kaynak, yazılım geliştirme ve paylaşımında kullanılan bir yaklaş�
 
 Açık kaynak yazılım, inovasyonun can damarıdır. Birçok kişinin katkıda bulunabileceği ve geliştirebileceği bir platform sunar. Yazılım geliştiricileri, açık kaynak projelerine katılarak yeni özellikler ekler, hataları düzeltir ve projeyi ileriye taşır. Bu sürekli inovasyon döngüsü, teknoloji dünyasının hızla değişmesini ve gelişmesini sağlar.
 
-Açık kaynak projeleri, herkesin katkıda bulunabileceği açık bir saha sunar. Bu, farklı bakış açılarından ve yeteneklerden gelen birçok kişinin bir araya gelerek yeni fikirlerin ve çözümlerin doğmasına yol açar. İnovasyon, sadece profesyonel geliştiricilerin değil, aynı zamanda tutkulu bireylerin ve hobilerin katkısıyla da gerçekleşir.
+Açık kaynak projeleri, herkesin katkıda bulunabileceği açık bir saha sunar. Bu da, farklı bakış açılarına ve yeteneklere sahip birçok kullanıcının veya geliştiricinin bir araya gelmesini, böylece yeni fikirlerin ve çözümlerin doğmasını sağlar. İnovasyon, sadece profesyonel geliştiricilerin değil, aynı zamanda tutkulu bireylerin ve hobilerin katkısıyla da gerçekleşir.
 
 > _Geçen yıl olduğu gibi, açık kaynak kullanımını destekleyen en büyük motivasyon, yeniliklere ve en son teknolojilere erişimdir. Geleceğe hazırlanan organizasyonlar, en son teknolojilerin büyük ölçüde sponsorluklar ve bireysel katkıda bulunanlar sayesinde açık kaynakta geliştirildiğini bilmektedirler._
 >
