@@ -157,7 +157,7 @@ Programdaki mentor sayısında herhangi bir teorik limit olmasa da, yöneticiler
 
 ## Mentor - danışan başvuruları ve eşleşmeleri
 
-Danışan ancak mentorun verebileceği kadarını alabileceği için, programdaki en önemli şahsiyet mentordur. Dolayısıyla, program icraı başlangıcında öncelikle mentor havuzu oluşturuacaktır.
+Danışanın kazanımı, çoğunlukla mentorun paylaşma kapasitesi -mentorun zamanına veya iş yoğunluğuna bağlı olarak- ile sınırlanabileceği için, mentor programındaki işleyiş açısından baskın rol oynamaktadır. Dolayısıyla, program başlangıcında öncelikle mentor havuzu oluşturulacaktır.
 
 Mentorlar şu bilgiler ile programa başvuracaklardır:
 - Aktif olduğu veya çok aktif olmasa da katkıda bulunduğu açık kaynak projeler ve topluluklar
@@ -182,7 +182,7 @@ Danışan başvuruları mentor ve proje/topluluk odaklı olacaktır. Danışanla
 - CV’si veya LinkedIn profili
 - İletişim bilgileri
 
-Mentorların işini kolaylaştırmak amacıyla, danışanların ilk elemesi program yönetici tarafından yapılacaktır.
+Mentorların işini kolaylaştırmak amacıyla, danışanların ilk elemesi program yöneticisi tarafından yapılacaktır.
 Sonrasında, mentorlar ile birlikte danışanlar değerlendirilerek eşleştirme yapılacaktır.
 
 Eğer mentor için teknik yeterliliği uygun olan aday bulunamazsa, mentorun isteğine bağlı olarak, daha temel seviyeden mentorluk yapılmak üzere bir aday ile eşleşme sağlanacaktır.

@@ -39,14 +39,14 @@ Bir projeye katkıda bulunarak, projenin gelişimine katkıda bulunan diğer ki�
 
 ### Yazılımı ve insan kaynağını geliştirme
 
-Daha önce de belirtildiği gibi, dünyada inovasyon açık kaynak projelerde ilerlemektedir. Bu nedenle, açık kaynak projelerde katkıda bulunmak, yazılım geliştirme süreçlerinizi ve yazılım mimarinizi geliştirmenin en iyi yollarından birisidir. Doğrudan teknik katkıların dışında, katkı yaparak hem kuruluşunuzun organizasyonel süreçlerini hem de insan kaynağınızı geliştirebilirsiniz.
+Daha önce de belirtildiği gibi, dünyada inovasyon açık kaynak projelerde ilerlemektedir. Bu nedenle, açık kaynak projelerde katkıda bulunmak, yazılım geliştirme süreçlerinizi ve yazılım mimarinizi geliştirmenin en iyi yollarından birisidir. Doğrudan teknik faydanın ötesinde, katkı yaparak açık kaynak projelere destek vermek, kuruluşunuzun organizasyonel süreçlerini güçlendirebilir ve insan kaynağınızın gelişimini sağlayabilir. Ayrıca, bu tür katılımlar, kurum içi işbirliğini artırarak ekip ruhunu güçlendirir ve çalışanların problem çözme ve iletişim becerilerini geliştirme fırsatı sunar. Bunun yanı sıra, açık kaynak projelere katkı yapmak, kurumunuzun itibarını artırabilir ve endüstride liderlik pozisyonunu güçlendirebilir.
 
 Bu geliştirmelerin en başında, açık kaynak projeler ile kalite kültürünü kuruluşunuz içinde geliştirme gelmektedir. Her açık kaynak projede kalite kültürü yüksek olmasa da, günümüz teknolojisinin belkemiğini oluşturan bir çok açık kaynak proje, yüksek kalite kültürüne sahiptir. Kuruluşunuz çalışanlarının bu projelere katkı yapması, bu projelerdeki yüksek kalite gereksinimlerini ve standartlarını öğrenmelerini sağlayabilir.
 
 Açık kaynak projelerde katkıda bulunmak, çalışanlar için büyük bir motivasyon kaynağıdır. Aynı zamanda, kuruluşunuzun reklamını yapmanın en iyi yollarından birisidir.
 Bu sayede, açık kaynağa katkıda bulunarak, kuruluşunuzun daha yetenekli yazılımcıları bulmasına ve onları şirketinizde tutmasına yardımcı olabilirsiniz.
 
-### Ticari ürünler için temel
+### Ticari ürünler için temel olma niteliği
 
 Açık kaynak projeleri, ticari ürünleriniz için temel olarak kullanabilirsiniz. Bu projeleri kullanarak ürünlerinizi daha hızı sürede geliştirebilir ve pazara çıkarabilirsiniz. Aynı zamanda, açık kaynak projeleri kullanarak, ürünlerinizin güvenliğini ve esnekliğini artırabilirsiniz.
 

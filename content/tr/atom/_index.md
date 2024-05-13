@@ -32,11 +32,11 @@ Yeni dönemle ilgili bilgileri ve tarihleri, [dönem sayfasından](/atom/current
 
 OpenTR Açık Topluluk Mentorluğu (ATOM) Programı ile Türkiye’de açık kaynak projelerdeki yazılımcı sayısını artırmayı hedefliyoruz!
 
-Günümüz teknolojik dünyasında, açık kaynak projelerinin önemi giderek artmaktadır. Bu projeler, programcılar arasında işbirliği yapma, paylaşma ve geliştirme fırsatı sunmaktadır. Aynı zamanda da, bu projelerdeki oluşan inovasyon, projelere katkıda bulunan yazılımcıların kendi ülkelerinin ve şirketlerinin yazılım ekosisteminin gelişimine katkıda bulunmaktadır.
+Günümüz teknolojik dünyasında, açık kaynak projelerinin önemi giderek artmaktadır. Bu projeler, programcılar arasında işbirliği yapma, paylaşma ve geliştirme fırsatı sunmaktadır. Aynı zamanda, bu projelerden elde edilen inovasyon ile projelere katkıda bulunan yazılımcılar, kendi ülkelerinde ve şirketlerinde faaliyet gösteren yazılım ekosisteminin gelişimine katkıda bulunmaktadır.
 
 Biz de Türkiye’deki yazılımcılara açık kaynak projelerde deneyim kazanma fırsatı sunmak amacıyla, Açık kaynak projelerine mentorluk programı başlatıyoruz. Bu program, katılımcıların projelere katılmasını, mentorlar tarafından yönlendirilmelerini ve bu süreçte kazandıkları deneyimleri paylaşmasını hedeflemektedir.
 
-Mentorluk programına katılmak isteyen herkes bize katılabilir. Mentorlar arasında sektörde uzman olan ve deneyimli programcılar bulunmaktadır. Program katılımcıları, mentorlarından hem teknik destek alacaklar hem de proje geliştirme teknikleri hakkında bilgi ve beceriler kazanacaklardır.
+Mentorluk programına katılmak isteyen herkes bize başvuruda bulunabilir. Mentorlar arasında sektörde uzman olan ve deneyimli programcılar bulunmaktadır. Program katılımcıları, mentorlarından hem teknik destek alacaklar hem de proje geliştirme teknikleri hakkında bilgi ve beceriler kazanacaklardır.
 
 Biz, açık kaynak projelerine mentorluk programı ile ekosisteminizin gelişimini desteklemek ve yazılımcılarımızın kariyer yolculuklarını kolaylaştırmak istiyoruz. Katılımınızı bekliyoruz!
 
