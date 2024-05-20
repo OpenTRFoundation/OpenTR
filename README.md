@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img src="./static/images/open-tr-logo-01-200x200-transparent.png" width="200" height="200" align="center" />
+    <img src="./static/images/open-tr-new-logo-02-200x200.png" width="200" height="200" align="center" />
 </p>
 
 OpenTR provides open source strategy and guidance for organizations and individuals in Turkey.
@@ -17,10 +17,6 @@ Bu repository, OpenTR web sitesinin kaynak kodunu içerir.
 
 OpenTR'nin çalışmalarına katılmak için [OpenTR'ye katkı rehberimizi](https://opentr.foundation/docs/about/contribute-to-opentr/) inceleyebilir,
 OpenTR ile iletişime geçmek için [iletişim sayfamızı](https://opentr.foundation/contact/) ziyaret edebilirsiniz.
-
----
-
-![image info](./static/images/open-tr-banner-01-website.png)
 
 ---
 
