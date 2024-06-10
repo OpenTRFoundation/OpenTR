@@ -30,6 +30,8 @@ Yeni dönemle ilgili bilgileri ve tarihleri, [dönem sayfasından](/atom/current
 
 {{% /pageinfo %}}
 
+JUG Istanbul çatısı altında başlattığımız ve olgunlaştırdığımız ATOM programı artık OpenTR bünyesinde yürütülecek. Daha fazla bilgi için blog yazımızı okuyabilirsiniz: [ATOM Mentorluk programı OpenTR'ye Taşındı](/blog/2024/06/01/atom-mentorluk-programı-opentrye-taşındı/) 
+
 OpenTR Açık Topluluk Mentorluğu (ATOM) Programı ile Türkiye’de açık kaynak projelerdeki yazılımcı sayısını artırmayı hedefliyoruz!
 
 Günümüz teknolojik dünyasında, açık kaynak projelerinin önemi giderek artmaktadır. Bu projeler, programcılar arasında işbirliği yapma, paylaşma ve geliştirme fırsatı sunmaktadır. Aynı zamanda, bu projelerden elde edilen inovasyon ile projelere katkıda bulunan yazılımcılar, kendi ülkelerinde ve şirketlerinde faaliyet gösteren yazılım ekosisteminin gelişimine katkıda bulunmaktadır.
