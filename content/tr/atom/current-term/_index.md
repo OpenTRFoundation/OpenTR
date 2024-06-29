@@ -13,7 +13,17 @@ description: >
 
 <h3>
     <span class="badge text-bg-primary">Yeni</span>
-    ATOM'un 2024 yılı 1. dönemi mentor başvuruları açıldı!
+    ATOM'un 2024 yılı 1. döneminde çalışacağımız mentorları yayınladık!
+    <br/>
+    <br/>
+    21 Temmuz 2024 saat 18:00'de, programa danışan başvuruları bitiyor.
+    Açık kaynak projelere katkı yapma fırsatı için <b>başvurunuzu</b> yapmayı unutmayın!
+</h3>
+
+<br/>
+
+<h3>
+    Aşağıda programla ilgili bilgiler ve tarihleri görebilirsiniz.
 </h3>
 
 <br/>
@@ -27,11 +37,10 @@ ATOM programı hakkında bilgi almak için [program anasayfasına](/atom) bakabi
 {{% /pageinfo %}}
 
 Önemli tarihler:
-- Mentor başvuruları: 10 Haziran 2024 - 25 Haziran 2024
 - Danışan başvuruları: 1 Temmuz 2024 - 21 Temmuz 2024
 - Beraber çalışma: 5 Ağustos 2024 - 13 Ekim 2024
 
-Mentor Başvuru formu: [Mentorluk Başvuru Formu](https://forms.gle/nfM3KzYf4J5PyoNt8)
+Danışan Başvuru formu: [Danışan Başvuru Formu](https://forms.gle/iJumaUaEQSWfnwEA6)
 
 ## Hedefler
 
@@ -48,17 +57,7 @@ Programımızın amacı şunlardır:
 - Yabancı dil öğretmek
 - Açık kaynak projeleri dışındaki başka projeler üzerinde çalışmak
 
-Yazılımcı olma yolunda ilerleyen öğrenciler için de Google Summer of Code, LFX Mentorship, Outreachy gibi farklı programlar bulunmaktadır. JUG Istanbul, bunlara uygun profildeki kişileri bu programlara yönlendirmek için ayrıca bir çalışma yapacaktır.
-
-## Mentorlar için Önkoşullar
-
-- Bir açık kaynak projesi ve topluluğuna aktif katkı yapıyor olması veya daha önceden yapmış olması
-- Mentorluk tecrübesinin olması veya mentorluk yapmayı öğrenmek istemesi
-- Yazılı iletişim becerisinin olması
-- Program metodolojisinde yazılan sınırlar dahilinde, danışan tarafından ulaşılabilir olması
-- Pozitif ve hevesli olması
-
-[Mentor aday kılavuzunda](/atom/docs/mentor-candidate-guide), mentorlardan beklentiler ve ipuçları belirtilmiştir.
+Yazılımcı olma yolunda ilerleyen öğrenciler için de Google Summer of Code, LFX Mentorship, Outreachy gibi farklı programlar bulunmaktadır. OpenTR, bunlara uygun profildeki kişileri bu programlara yönlendirmek için ayrıca bir çalışma yapacaktır.
 
 ## Danışanlar için Önkoşullar
 
@@ -73,7 +72,7 @@ Yazılımcı olma yolunda ilerleyen öğrenciler için de Google Summer of Code,
 
 ## Danışan Başvuruları
 
-Programımıza danışan olarak başvurmak için 1 Temmuz 2024 tarihinde açılacak olan **danışan başvuru formunu** doldurabilirsiniz.
+Programımıza danışan olarak başvurmak için [**danışan başvuru formunu**](https://forms.gle/iJumaUaEQSWfnwEA6) doldurabilirsiniz.
 
 Danışan başvuruları 21 Temmuz 2024 tarihine kadar alınacaktır. Detaylı bilgi için [tarih çizelgesi](#tarih-çizelgesi)ne göz atabilirsiniz.
 
@@ -81,15 +80,12 @@ Danışan başvuruları 21 Temmuz 2024 tarihine kadar alınacaktır. Detaylı bi
 
 - [Program kuralları](/atom/docs/program-rules/)
 - [Danışan aday kılavuzu](/atom/docs/mentee-candidate-guide/)
-- [Mentor aday kılavuzu](/atom/docs/mentor-candidate-guide/)
 
 
 ## Tarih çizelgesi
 
 | Tarih                             |                                                          |
 |-----------------------------------|----------------------------------------------------------|
-| 10 Haziran 2024 - 25 Haziran 2024 | Mentor başvuruları                                       |
-| 28 Haziran 2024                   | Gönüllü mentorların yayınlanması                         |
 | 1 Temmuz 2024 - 21 Temmuz 2024    | Danışan başvuruları                                      |
 | 25 Temmuz 2024                    | Kabul edilen danışanların duyurulması                    |
 | 29 Temmuz 2024 haftası            | Online mentor ve danışan ipuçları eğitimi                |
@@ -98,3 +94,61 @@ Danışan başvuruları 21 Temmuz 2024 tarihine kadar alınacaktır. Detaylı bi
 | 21 Ekim 2024 haftası              | Programın bitiş duyurusu                                 |                                       
 
 Tüm bitiş tarihleri TSİ 18:00'dir.
+
+
+## Mentorlar
+
+{{< mentor photo="emel_simsek.jpeg" name="Emel Şimşek" title="Senior Software Engineer" company="Microsoft" github="emelsimsek" linkedin="emelsimsek" >}}
+Mentorluk yapabileceği proje ve topluluklar:
+- [pg\_auto\_failover](https://github.com/hapostgres/pg_auto_failover)
+- [postgres\_hll](https://github.com/citusdata/postgresql-hll)
+  {{< /mentor >}}
+
+<hr/>
+
+{{< mentor photo="cihad_guzel.jpeg" name="Cihad Güzel" title="Co-Founder" company="LAGOM" github="cguzel" linkedin="cihadguzel" >}}
+Mentorluk yapabileceği proje ve topluluklar:
+- [Apache Gora](https://gora.apache.org/)
+- [Apache Nutch](https://nutch.apache.org/)
+- [Apache ManifoldCF](https://manifoldcf.apache.org/)
+  {{< /mentor >}}
+
+<hr/>
+
+{{< mentor photo="onuralp_sezer.jpeg" name="Onuralp Sezer" title="Senior Software Development Engineer" company="Armada Yazılım" github="onuralpszr" linkedin="osezer" >}}
+Mentorluk yapabileceği proje ve topluluklar:
+- [Fedora projeleri](https://fedoraproject.org/) (Python ve Web Merkezli olanlar)
+  {{< /mentor >}}
+
+<hr/>
+
+{{< mentor photo="gulsum_atici.jpeg" name="Gülsüm Atıcı" title="Software Engineer" company="Canonical" github="gatici" linkedin="gulsumatici" >}}
+Mentorluk yapabileceği proje ve topluluklar:
+* [Kubernetes](https://github.com/kubernetes)
+* [Open Source Mano](https://osm.etsi.org/) (OSM)
+* [OMEC](https://opennetworking.org/omec/)
+  {{< /mentor >}}
+
+<hr/>
+
+{{< mentor photo="batuhan_ozgur_ozdemir.jpeg" name="Batuhan Özgür Özdemir" title="Tech Lead" company="refine" github="BatuhanW" linkedin="batuhanw" >}}
+Mentorluk yapabileceği proje ve topluluklar:
+* [Refine](https://github.com/refinedev/refine)
+  {{< /mentor >}}
+
+<hr/>
+
+{{< mentor photo="altug_bilgin_altintas.jpg" name="Altuğ Bilgin Altıntaş" title="Java Lead" company="ING" github="altuga" linkedin="altuga" >}}
+Mentorluk yapabileceği proje ve topluluklar:
+* [Jakarta EE](https://jakarta.ee/)
+* [Microprofile](https://projects.eclipse.org/projects/technology.microprofile)
+* [Apache Commons](https://commons.apache.org/)
+  {{< /mentor >}}
+
+<hr/>
+
+{{< mentor photo="ali_ok.jpg" name="Ali Ok" title="Principal Software Engineer" company="Red Hat" github="aliok" linkedin="aliok" >}}
+Mentorluk yapabileceği proje ve topluluklar:
+* [Knative](https://github.com/knative/)
+* [Kubernetes](https://github.com/kubernetes)
+  {{< /mentor >}}
