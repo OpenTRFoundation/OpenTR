@@ -118,6 +118,8 @@ Mentorluk yapabileceği proje ve topluluklar:
 {{< mentor photo="onuralp_sezer.jpeg" name="Onuralp Sezer" title="Senior Software Development Engineer" company="Armada Yazılım" github="onuralpszr" linkedin="osezer" >}}
 Mentorluk yapabileceği proje ve topluluklar:
 - [Fedora projeleri](https://fedoraproject.org/) (Python ve Web Merkezli olanlar)
+- [SuperVision](https://github.com/roboflow/supervision)
+- [OpenCV](https://github.com/opencv/opencv)
   {{< /mentor >}}
 
 <hr/>
