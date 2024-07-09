@@ -1,7 +1,7 @@
 ---
 title: "OpenTR: Türkiye'nin Açık Kaynak Geleceği"
 linkTitle: "OpenTR: Türkiye'nin Açık Kaynak Geleceği"
-date: 2023-07-07
+date: 2024-07-09
 ---
 
 # Türkiye'nin Açık Kaynak Ekosistemine Katkı ve Gelişim Yolculuğu: OpenTR
