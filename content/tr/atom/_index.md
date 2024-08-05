@@ -23,8 +23,8 @@ ATOM Programı'nın önceki dönemleri hakkında bilgi almak için [arşiv sayfa
 <h3>
 {{% markdown %}}    
 <span class="badge text-bg-primary">Yeni</span>
-ATOM'un 2024 yılı 1. dönemi mentor başvuruları açıldı!
-Yeni dönemle ilgili bilgileri ve tarihleri, [dönem sayfasından](/atom/current-term/) görebilirsiniz.
+ATOM Programı'nın 2024 yılı 1. döneminde başvurular arasından, mentorlarımız ile eşleştirdiğimiz 7 danışanı duyurmaktan mutluluk duyuyoruz!
+Daha fazla bilgi için, [dönem sayfasını](/atom/current-term/) inceleyebilirsiniz.
 {{% /markdown %}}
 </h3>
 

@@ -4,7 +4,7 @@ title: "ATOM - Mevcut Dönem - 2024 1. Dönem"
 linkTitle: "Mevcut Dönem (2024 Dönem 1)"
 weight: 100
 description: >
-  [8 Ağustos 2024 - 13 Ekim 2024]
+  [5 Ağustos 2024 - 13 Ekim 2024]
 ---
 
 <img src="/images/atom-logo-horizontal-800x251.png" style="max-height: 200px; text-align: center;"/>
@@ -13,11 +13,7 @@ description: >
 
 <h3>
     <span class="badge text-bg-primary">Yeni</span>
-    ATOM'un 2024 yılı 1. döneminde çalışacağımız mentorları yayınladık!
-    <br/>
-    <br/>
-    21 Temmuz 2024 saat 18:00'de, programa danışan başvuruları bitiyor.
-    Açık kaynak projelere katkı yapma fırsatı için <b>başvurunuzu</b> yapmayı unutmayın!
+    ATOM Programı'nın 2024 yılı 1. döneminde başvurular arasından, mentorlarımız ile eşleştirdiğimiz 7 danışanı duyurmaktan mutluluk duyuyoruz!
 </h3>
 
 <br/>
@@ -37,10 +33,8 @@ ATOM programı hakkında bilgi almak için [program anasayfasına](/atom) bakabi
 {{% /pageinfo %}}
 
 Önemli tarihler:
-- Danışan başvuruları: 1 Temmuz 2024 - 21 Temmuz 2024
+- Online mentor ve danışan ipuçları eğitimi: 6 Ağustos 2024
 - Beraber çalışma: 5 Ağustos 2024 - 13 Ekim 2024
-
-Danışan Başvuru formu: [Danışan Başvuru Formu](https://forms.gle/iJumaUaEQSWfnwEA6)
 
 ## Hedefler
 
@@ -59,52 +53,64 @@ Programımızın amacı şunlardır:
 
 Yazılımcı olma yolunda ilerleyen öğrenciler için de Google Summer of Code, LFX Mentorship, Outreachy gibi farklı programlar bulunmaktadır. OpenTR, bunlara uygun profildeki kişileri bu programlara yönlendirmek için ayrıca bir çalışma yapacaktır.
 
-## Danışanlar için Önkoşullar
+## İstatistikler
+* Başvuru sayısı: 16
+* Kabul edilen başvuru: 7
+* Mentor sayısı: 5
 
-- Email listelerinde ve Github benzeri platformlarda yazışmaları takip edebilecek seviyede İngilizce yeterliliğine sahip olmak
-- Github veya benzeri platformlarda aktif bir hesaba sahip olmak
-- Programlama dilleri ve teknolojileri (Java, Git gibi) hakkında bilgi sahibi olmak
-- Açık kaynak projeleri kullanmış olmak
-- Programın amaçlarına uygun olarak motivasyon sahibi olmak
-- En az 2 senedir yazılım alanında aktif olarak çalışmış olmak (önerilir)
+## Kabul Edilen Danışanlar
 
-[Danışan aday kılavuzunda](/atom/docs/mentee-candidate-guide/) beklentiler ve ipuçları belirtilmiştir.
+{{< mentee photo="emre_can_corapci.jpeg" name="Emre Can Çorapçı" title="Managing Partner" company="Eneftimbu"
+github="emrecancorapci" linkedin="emrecancorapci" mentor="Batuhan Özgür Özdemir" >}}
 
-## Danışan Başvuruları
+<hr/>
 
-Programımıza danışan olarak başvurmak için [**danışan başvuru formunu**](https://forms.gle/iJumaUaEQSWfnwEA6) doldurabilirsiniz.
+{{< mentee photo="baris_ceviz.jpeg" name="Barış Ceviz" title="Senior Software Engineer" company="Just Eat Takeaway"
+github="peacecwz" linkedin="peacecwz" mentor="Gülsüm Atıcı" >}}
 
-Danışan başvuruları 21 Temmuz 2024 tarihine kadar alınacaktır. Detaylı bilgi için [tarih çizelgesi](#tarih-çizelgesi)ne göz atabilirsiniz.
+<hr/>
+
+{{< mentee photo="deniz_ogut.jpeg" name="Deniz Öğüt" title="Backend Developer" company="ATEZ"
+github="denizOgut" linkedin="deniz-öğüt" mentor="Altuğ Bilgin Altıntaş" >}}
+
+<hr/>
+
+{{< mentee photo="erdem_oden.jpeg" name="Erdem Öden" title="Java Software Developer" company="Ödeal"
+github="erdemoden" linkedin="erdemoden" mentor="Cihad Güzel" >}}
+
+<hr/>
+
+{{< mentee photo="onurcan_karaman.jpeg" name="Onur Can Karaman" title="Industrial Application Leader" company="Digitheta"
+github="onurcankaraman" linkedin="onurcankaraman" mentor="Onuralp Sezer" >}}
+
+<hr/>
+
+{{< mentee photo="melis_olmez.jpeg" name="Melis Ölmez" title="Junior Software Engineer" company=""
+github="melisolmez" linkedin="melisolmez" mentor="Altuğ Bilgin Altıntaş" >}}
+
+<hr/>
+
+{{< mentee photo="kader_miyanyedi.jpeg" name="Kader Miyanyedi" title="Backend Developer" company="Brandefense"
+github="Kadermiyanyedi" linkedin="kadermiyanyedi" mentor="Onuralp Sezer" >}}
 
 ## Belgeler
 
 - [Program kuralları](/atom/docs/program-rules/)
-- [Danışan aday kılavuzu](/atom/docs/mentee-candidate-guide/)
+- [Danışan kılavuzu](/atom/docs/mentee-guide/)
+- [Mentor kılavuzu](/atom/docs/mentor-guide/)
 
 
 ## Tarih çizelgesi
 
-| Tarih                             |                                                          |
-|-----------------------------------|----------------------------------------------------------|
-| 1 Temmuz 2024 - 21 Temmuz 2024    | Danışan başvuruları                                      |
-| 25 Temmuz 2024                    | Kabul edilen danışanların duyurulması                    |
-| 29 Temmuz 2024 haftası            | Online mentor ve danışan ipuçları eğitimi                |
-| 8 Ağustos 2024 - 13 Ekim 2024     | Mentorluk süreci (10 hafta)                              |
-| 13 Ekim 2024 haftası              | Çalışma sonuçlarının program yöneticilerine bildirilmesi |
-| 21 Ekim 2024 haftası              | Programın bitiş duyurusu                                 |                                       
+| Tarih                         |                                                          |
+|-------------------------------|----------------------------------------------------------|
+| 5 Ağustos 2024 - 13 Ekim 2024 | Mentorluk süreci (10 hafta)                              |
+| 13 Ekim 2024 haftası          | Çalışma sonuçlarının program yöneticilerine bildirilmesi |
+| 21 Ekim 2024 haftası          | Programın bitiş duyurusu                                 |                                       
 
 Tüm bitiş tarihleri TSİ 18:00'dir.
 
-
 ## Mentorlar
-
-{{< mentor photo="emel_simsek.jpeg" name="Emel Şimşek" title="Senior Software Engineer" company="Microsoft" github="emelsimsek" linkedin="emelsimsek" >}}
-Mentorluk yapabileceği proje ve topluluklar:
-- [pg\_auto\_failover](https://github.com/hapostgres/pg_auto_failover)
-- [postgres\_hll](https://github.com/citusdata/postgresql-hll)
-  {{< /mentor >}}
-
-<hr/>
 
 {{< mentor photo="cihad_guzel.jpeg" name="Cihad Güzel" title="Co-Founder" company="LAGOM" github="cguzel" linkedin="cihadguzel" >}}
 Mentorluk yapabileceği proje ve topluluklar:
@@ -145,12 +151,4 @@ Mentorluk yapabileceği proje ve topluluklar:
 * [Jakarta EE](https://jakarta.ee/)
 * [Microprofile](https://projects.eclipse.org/projects/technology.microprofile)
 * [Apache Commons](https://commons.apache.org/)
-  {{< /mentor >}}
-
-<hr/>
-
-{{< mentor photo="ali_ok.jpg" name="Ali Ok" title="Principal Software Engineer" company="Red Hat" github="aliok" linkedin="aliok" >}}
-Mentorluk yapabileceği proje ve topluluklar:
-* [Knative](https://github.com/knative/)
-* [Kubernetes](https://github.com/kubernetes)
   {{< /mentor >}}
