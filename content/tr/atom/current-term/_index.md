@@ -66,7 +66,7 @@ github="emrecancorapci" linkedin="emrecancorapci" mentor="Batuhan Özgür Özdem
 <hr/>
 
 {{< mentee photo="baris_ceviz.jpeg" name="Barış Ceviz" title="Senior Software Engineer" company="Just Eat Takeaway"
-github="peacecwz" linkedin="peacecwz" mentor="Gülsüm Atıcı" >}}
+github="peacecwz" linkedin="peacecwz" mentor="Ali Ok" >}}
 
 <hr/>
 
@@ -130,15 +130,6 @@ Mentorluk yapabileceği proje ve topluluklar:
 
 <hr/>
 
-{{< mentor photo="gulsum_atici.jpeg" name="Gülsüm Atıcı" title="Software Engineer" company="Canonical" github="gatici" linkedin="gulsumatici" >}}
-Mentorluk yapabileceği proje ve topluluklar:
-* [Kubernetes](https://github.com/kubernetes)
-* [Open Source Mano](https://osm.etsi.org/) (OSM)
-* [OMEC](https://opennetworking.org/omec/)
-  {{< /mentor >}}
-
-<hr/>
-
 {{< mentor photo="batuhan_ozgur_ozdemir.jpeg" name="Batuhan Özgür Özdemir" title="Tech Lead" company="refine" github="BatuhanW" linkedin="batuhanw" >}}
 Mentorluk yapabileceği proje ve topluluklar:
 * [Refine](https://github.com/refinedev/refine)
@@ -151,4 +142,12 @@ Mentorluk yapabileceği proje ve topluluklar:
 * [Jakarta EE](https://jakarta.ee/)
 * [Microprofile](https://projects.eclipse.org/projects/technology.microprofile)
 * [Apache Commons](https://commons.apache.org/)
+  {{< /mentor >}}
+
+<hr/>
+
+{{< mentor photo="ali_ok.jpg" name="Ali Ok" title="Principal Software Engineer" company="Red Hat" github="aliok" linkedin="aliok" >}}
+Mentorluk yapabileceği proje ve topluluklar:
+* [Knative](https://github.com/knative/)
+* [Kubernetes](https://github.com/kubernetes)
   {{< /mentor >}}
