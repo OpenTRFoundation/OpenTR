@@ -64,7 +64,7 @@ OpenTR'nin hazırladığı bireyler için açık kaynağa başlangıç rehberine
 
 Rehberin bu kısmında, açık kaynağa en baştan başlayacağız.
 
-Herhangi bir kısımda bize ulaşıp yardım almak istersen, <https://opentr.foundation/contact/> adresinde yazılan iletişim seçeneklerinden birisi ile bize ulaşabilirsin.
+Herhangi bir kısımda bize ulaşıp yardım almak istersen, <https://opentr.netlify.app/contact/> adresinde yazılan iletişim seçeneklerinden birisi ile bize ulaşabilirsin.
 
 ### Yol Haritan
 
@@ -135,7 +135,7 @@ Rehberin bu kısmında, açık kaynak hakkında bilgi sahibi olduğunu ve teknik
 
 Her durumda, açık kaynağın tanımı, terimleri ve tarihçesi gibi bilgileri öğrenmek için, [Açık Kaynağa Giriş](/docs/introduction-to-open-source/) belgelerimizi okumanı tavsiye ederiz.
 
-Herhangi bir kısımda bize ulaşıp yardım almak istersen, <https://opentr.foundation/contact/> adresinde yazılan iletişim seçeneklerinden birisi ile bize ulaşabilirsin.
+Herhangi bir kısımda bize ulaşıp yardım almak istersen, <https://opentr.netlify.app/contact/> adresinde yazılan iletişim seçeneklerinden birisi ile bize ulaşabilirsin.
 
 ### Neden açık kaynak katkısı?
 
@@ -310,7 +310,7 @@ Rehberin bu kısmında, açık kaynağa zaten katkı yaptığını varsayıyoruz
 
 Her durumda, açık kaynağın tanımı, terimleri ve tarihçesi gibi bilgileri öğrenmek için, Açık Kaynağa Giriş belgelerimizi okumanı tavsiye ederiz.
 
-Herhangi bir kısımda bize ulaşıp yardım almak istersen, <https://opentr.foundation/contact/> adresinde yazılan iletişim seçeneklerinden birisi ile bize ulaşabilirsin.
+Herhangi bir kısımda bize ulaşıp yardım almak istersen, <https://opentr.netlify.app/contact/> adresinde yazılan iletişim seçeneklerinden birisi ile bize ulaşabilirsin.
 
 ### Bize ulaş
 
@@ -354,4 +354,4 @@ Daha az zahmet gerektiren bir seçenekler ise şunlar:
 
 Evet, OpenTR olarak Türkiye'den açık kaynak projelere katkıda bulunanların sayısını artırmak istiyoruz, ancak bunu senin gibi açık kaynak projelere katkıda bulunan kişilerin yardımı olmadan başaramayız!
 
-O yüzden seninle birlikte çalışmak istiyoruz. Eğer OpenTR'nin aktivitelerine istersen, <https://opentr.foundation/contact/> adresinde yazılan iletişim seçeneklerinden birisi ile bize ulaşabilirsin.
+O yüzden seninle birlikte çalışmak istiyoruz. Eğer OpenTR'nin aktivitelerine istersen, <https://opentr.netlify.app/contact/> adresinde yazılan iletişim seçeneklerinden birisi ile bize ulaşabilirsin.

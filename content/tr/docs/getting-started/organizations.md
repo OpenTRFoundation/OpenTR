@@ -13,7 +13,7 @@ OpenTR'nin hazırladığı kuruluşlar için açık kaynak katkıya başlangıç
 
 Bu rehber, şirketler, üniversiteler ve kamu kurumları gibi kuruluşların açık kaynaklı projelerde nasıl katkıda bulunabileceklerini anlamalarına yardımcı olmak ve neden katkı yapmalarının kendileri için faydalı olacağını anlatmak için tasarlanmıştır.
 
-Herhangi bir kısımda bize ulaşıp yardım almak isterseniz, <https://opentr.foundation/contact/> adresinde yazılan iletişim seçeneklerinden birisi ile bize ulaşabilirsiniz.
+Herhangi bir kısımda bize ulaşıp yardım almak isterseniz, <https://opentr.netlify.app/contact/> adresinde yazılan iletişim seçeneklerinden birisi ile bize ulaşabilirsiniz.
 
 ## Neden açık kaynağa katkı?
 

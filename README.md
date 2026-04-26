@@ -5,18 +5,18 @@
 
 OpenTR provides open source strategy and guidance for organizations and individuals in Turkey.
 
-For more information, visit our website: https://opentr.foundation
+For more information, visit our website: https://opentr.netlify.app
 
 ---
 
 OpenTR, Türkiye'deki kuruluşlar ve bireyler için açık kaynak stratejisi ve rehberliği sağlayan bir oluşumdur.
 
-Daha fazla bilgi için web sitemizi ziyaret edin: https://opentr.foundation
+Daha fazla bilgi için web sitemizi ziyaret edin: https://opentr.netlify.app
 
 Bu repository, OpenTR web sitesinin kaynak kodunu içerir.
 
-OpenTR'nin çalışmalarına katılmak için [OpenTR'ye katkı rehberimizi](https://opentr.foundation/docs/about/contribute-to-opentr/) inceleyebilir,
-OpenTR ile iletişime geçmek için [iletişim sayfamızı](https://opentr.foundation/contact/) ziyaret edebilirsiniz.
+OpenTR'nin çalışmalarına katılmak için [OpenTR'ye katkı rehberimizi](https://opentr.netlify.app/docs/about/contribute-to-opentr/) inceleyebilir,
+OpenTR ile iletişime geçmek için [iletişim sayfamızı](https://opentr.netlify.app/contact/) ziyaret edebilirsiniz.
 
 ---
 

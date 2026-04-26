@@ -20,7 +20,7 @@ Bu dönemde OpenTR'nin lansmanı yapılacaktır. Ancak, lansmandan önce bazı h
 * [Türkçe sunum hazılanması](https://github.com/OpenTRFoundation/OpenTR/issues/7)
 * [İngilizce özet sunumunun hazırlanması](https://github.com/OpenTRFoundation/OpenTR/issues/8)
 * [Anket için çalışma başlatılması](https://github.com/OpenTRFoundation/OpenTR/issues/19)
-* "[Türkiye'de Açık Kaynağa Katkının Durumu](https://state.opentr.foundation/)" raporunun iyileştirilmesi
+* "[Türkiye'de Açık Kaynağa Katkının Durumu](https://state-of-oss-contribution-report.netlify.app/)" raporunun iyileştirilmesi
 * ATOM Mentorluk Programı'nın JUG Istanbul'dan taşınması
 
 Dönem çalışmalarını GitHub projesinde görebilir ve katkıda bulunabilirsiniz: https://github.com/orgs/OpenTRFoundation/projects/6/views/1
