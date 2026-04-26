@@ -38,8 +38,6 @@ Birey olarak:
 
 **Katkıda bulunmak istediğinize dair bizimle [çalışma grubu toplantılarımızda](/contact/#toplantılar) veya asenkron bir şekilde [tartışma forumumuz](https://github.com/orgs/OpenTRFoundation/discussions) üzerinden iletişime geçebilirsiniz. Sizin için en uygun yöntemi beraber seçelim.**
 
-Özel olarak [email](info@opentr.foundation) ile de iletişime geçebilirsiniz.
-
 ## Web sitesine katkıda bulunma
 
 OpenTR'nin web sitesi [Hugo](https://gohugo.io/) ve [Docsy](https://docsy.dev/) teması kullanılarak hazırlanmıştır. Websitesi [Netlify](https://www.netlify.com/) üzerinde barındırılmaktadır.

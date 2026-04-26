@@ -1,4 +1,4 @@
-baseURL = "https://opentr.foundation"
+baseURL = "https://opentr.netlify.app"
 title = "OpenTR"
 
 # Language settings
@@ -126,7 +126,7 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://opentr.foundation"
+url_latest_version = "https://opentr.netlify.app"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 # TODO: to be updated
@@ -220,11 +220,6 @@ enable = false
 #  name = "Slack"
 #  url = "https://join.slack.com/t/open-tr/shared_invite/zt-2045iugc5-VgCozOqAqs297Cws7m~vgw"
 #  icon = "fab fa-slack"
-
-#[[params.links.developer]]
-#  name = "Duyuru Listesi"
-#  url = "https://groups.google.com/a/opentr.foundation/g/duyuru"
-#  icon = "fa fa-envelope"
 
 # hugo module configuration
 

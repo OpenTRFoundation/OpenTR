@@ -19,7 +19,6 @@ Ayrıca düzenli **çalışma grubu toplantılarımıza** katılabilirsiniz. Top
 
 Sosyal medya hesaplarımızı da takip edebilirsiniz.
 
-* [<i class="fa fa-envelope"></i> Duyuru Mail Listesi](https://groups.google.com/a/opentr.foundation/g/duyuru): Kaydolarak OpenTR'nin yapacağı duyurulardan haberdar olabilirsiniz. 
 * [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/opentr_fdn)
 * [<i class="fab fa-linkedin"></i> LinkedIn](https://linkedin.com/company/open-tr)
 
@@ -43,9 +42,8 @@ Bu toplantıda hem OpenTR’nin kendi katılımcılarıyla tanışabilir ve gün
 
 ## İletişim
 
-OpenTR ile iletişim için bize email gönderebilirsiniz, Slack mesajı atabilirsiniz veya sosyal medya hesaplarımızdan bize ulaşabilirsiniz.
+OpenTR ile iletişim için Slack mesajı atabilirsiniz veya sosyal medya hesaplarımızdan bize ulaşabilirsiniz.
 
-* [<i class="fa fa-envelope"></i> info@opentr.foundation](mailto:info@opentr.foundation)
 * [<i class="fab fa-slack"></i> Slack](https://join.slack.com/t/open-tr/shared_invite/zt-2045iugc5-VgCozOqAqs297Cws7m~vgw) (davetiye linki)
 * [<i class="fab fa-discord"></i> Discord](https://discord.gg/Af6QDEd9X4) (davetiye linki)
 
